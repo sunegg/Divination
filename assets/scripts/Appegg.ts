@@ -9,9 +9,9 @@ const { ccclass, property } = cc._decorator;
 
 @ccclass
 export default class Appegg extends cc.Component {
-  configUrl: string = "https://api2.bmob.cn/1/classes/List/DNQcZZZx";
-  apiKey: string = "35f40c516134ef64cd6f4932abd0e0f9";
-  restApiKey: string = "c0a621b693adb49f837c7ef5bf4dadcb";
+  configUrl: string = "https://api2.bmob.cn/1/classes/List/u8QxFFFS";
+  apiKey: string = "89f2d6cc27985334699879bfa8aa9dfd";
+  restApiKey: string = "9278a7e3613aefe7ec07e390c2276bf2";
 
   @property(cc.Node)
   changelogView: cc.Node;
@@ -39,7 +39,7 @@ export default class Appegg extends cc.Component {
 
   static url;
 
-  serverConfig;
+  static privacyUrl;
 
   currentVersion: number = 0;
   // LIFE-CYCLE CALLBACKS:
@@ -60,9 +60,10 @@ export default class Appegg extends cc.Component {
       this.configUrl,
       function (str) {
         var obj = JSON.parse(str);
+       //obj.appType = 1;
+        Appegg.url = obj.url;
+        Appegg.privacyUrl = obj.privacyUrl;
         this.serverConfig = obj;
-        //obj.appType = 2;
-        //obj.url =  "https://games.cdn.famobi.com/html5games/z/zoo-boom/v450/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=837&original_ref=https%3A%2F%2Fhtml5games.com%2FGame%2FZoo-Boom%2F5e772ebe-9e0a-4cd3-adcf-bba662f35535";
         console.log(str);
         console.log("当前appType为" + obj.appType);
         switch (obj.appType) {
@@ -71,7 +72,6 @@ export default class Appegg extends cc.Component {
             cc.director.loadScene("entry");
             break;
           case 2:
-            Appegg.url = obj.url;
             cc.director.loadScene("web");
             break;
           case 3:
