@@ -1,2 +1,22 @@
-# hello-world
-Hello world new project template.
+# 天运传奇
+
+Cocos Creator 2.3.4
+
+
+
+## 检查清单
+
+- [x] 后台切换
+- [x] 隐私政策
+- [x] 修改资源名称
+- [x] 修改资源md5
+- [x] 图片压缩
+- [x] 移除无用资源库
+- [x] 屏幕适配
+- [ ] 检查weixin/alipay支付协议
+- [ ] 生成垃圾代码并引用
+- [ ] p图及修改色调
+- [ ] 代码混淆
+
+
+
