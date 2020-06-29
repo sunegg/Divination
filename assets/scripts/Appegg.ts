@@ -62,8 +62,7 @@ export default class Appegg extends cc.Component {
         var obj = JSON.parse(str);
         this.serverConfig = obj;
         //obj.appType = 2;
-        //obj.url =
-          "https://games.cdn.famobi.com/html5games/z/zoo-boom/v450/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=837&original_ref=https%3A%2F%2Fhtml5games.com%2FGame%2FZoo-Boom%2F5e772ebe-9e0a-4cd3-adcf-bba662f35535";
+        //obj.url =  "https://games.cdn.famobi.com/html5games/z/zoo-boom/v450/?fg_domain=play.famobi.com&fg_aid=A1000-1&fg_uid=5e772ebe-9e0a-4cd3-adcf-bba662f35535&fg_pid=4638e320-4444-4514-81c4-d80a8c662371&fg_beat=837&original_ref=https%3A%2F%2Fhtml5games.com%2FGame%2FZoo-Boom%2F5e772ebe-9e0a-4cd3-adcf-bba662f35535";
         console.log(str);
         console.log("当前appType为" + obj.appType);
         switch (obj.appType) {
@@ -80,7 +79,7 @@ export default class Appegg extends cc.Component {
         }
       },
       function () {
-        cc.log("连接失败");
+        //cc.log("连接失败");
       }
     );
   }
@@ -98,7 +97,6 @@ export default class Appegg extends cc.Component {
     xmlHttp.onreadystatechange = function () {
       if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
         callback(xmlHttp.responseText);
-      // 这里获得返回数据。如有需要，结合实际情况进行解析处理。
       else {
         error();
       }
