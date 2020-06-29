@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9823337b-6ebd-4c51-8e74-5ddbc23c2f96",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "理发师": {
+      "ver": "1.0.4",
+      "uuid": "bdf22a2f-f9c6-4a1a-99d1-5782d77071d8",
+      "rawTextureUuid": "9823337b-6ebd-4c51-8e74-5ddbc23c2f96",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 64,
+      "trimY": 17,
+      "width": 172,
+      "height": 266,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

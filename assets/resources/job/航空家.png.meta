@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "81a71f73-67f6-43dc-b0cb-0facdb68b0d2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "航空家": {
+      "ver": "1.0.4",
+      "uuid": "3d899284-ed8b-400c-9266-364ac52c1d7d",
+      "rawTextureUuid": "81a71f73-67f6-43dc-b0cb-0facdb68b0d2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 81,
+      "trimY": 16,
+      "width": 138,
+      "height": 268,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "94ba8cd4-a3d8-4875-864e-d4825b88a041",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "医生": {
+      "ver": "1.0.4",
+      "uuid": "1d9d9278-21e4-44a9-a326-fb318a9132e8",
+      "rawTextureUuid": "94ba8cd4-a3d8-4875-864e-d4825b88a041",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 78,
+      "trimY": 17,
+      "width": 144,
+      "height": 266,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4d88012e-dc29-4c0c-b088-af9cb7bf2148",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "女医生": {
+      "ver": "1.0.4",
+      "uuid": "91070cfe-aa63-4e20-a51e-e1acc372b9f7",
+      "rawTextureUuid": "4d88012e-dc29-4c0c-b088-af9cb7bf2148",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 76,
+      "trimY": 19,
+      "width": 148,
+      "height": 262,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

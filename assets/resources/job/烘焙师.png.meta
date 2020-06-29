@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "05489882-6055-4d3c-b6a1-ba886aac3387",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "烘焙师": {
+      "ver": "1.0.4",
+      "uuid": "4ede1d35-5831-41ce-8a01-1d7a4e007451",
+      "rawTextureUuid": "05489882-6055-4d3c-b6a1-ba886aac3387",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 38,
+      "trimY": 20,
+      "width": 224,
+      "height": 260,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

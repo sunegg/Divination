@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "405f4c66-8abe-4485-8ab5-9925520b333c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "建筑师": {
+      "ver": "1.0.4",
+      "uuid": "6d026ab3-3369-42ed-9e73-e68f60464cbe",
+      "rawTextureUuid": "405f4c66-8abe-4485-8ab5-9925520b333c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 77,
+      "trimY": 18,
+      "width": 146,
+      "height": 265,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "61b6be4e-ca15-48db-8a9e-989749e6ad97",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "小提琴家": {
+      "ver": "1.0.4",
+      "uuid": "21e8aa89-748a-4325-bffc-4be13f0f9a54",
+      "rawTextureUuid": "61b6be4e-ca15-48db-8a9e-989749e6ad97",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 78,
+      "trimY": 15,
+      "width": 146,
+      "height": 270,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

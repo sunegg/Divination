@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "cf309a62-bfe2-4be2-8697-d13ccc3da319",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "物理学家": {
+      "ver": "1.0.4",
+      "uuid": "672808c2-8706-4040-a0c2-31322cbd4fbc",
+      "rawTextureUuid": "cf309a62-bfe2-4be2-8697-d13ccc3da319",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 85,
+      "trimY": 30,
+      "width": 130,
+      "height": 240,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

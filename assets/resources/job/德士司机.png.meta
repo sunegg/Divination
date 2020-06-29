@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "eab6533c-3d25-4653-b3c0-0afe82926fc9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "德士司机": {
+      "ver": "1.0.4",
+      "uuid": "457c0429-d728-4643-b3ea-9163969729c7",
+      "rawTextureUuid": "eab6533c-3d25-4653-b3c0-0afe82926fc9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 82,
+      "trimY": 17,
+      "width": 136,
+      "height": 266,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

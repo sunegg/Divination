@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c2385bcf-c5b4-4251-a326-ab76a0a29cba",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "阿拉丁公主": {
+      "ver": "1.0.4",
+      "uuid": "e8639380-c162-42d1-8f99-14f83a8b64d2",
+      "rawTextureUuid": "c2385bcf-c5b4-4251-a326-ab76a0a29cba",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 76,
+      "trimY": 21,
+      "width": 149,
+      "height": 258,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

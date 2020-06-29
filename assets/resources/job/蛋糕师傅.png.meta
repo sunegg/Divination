@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "347b9787-36a7-4b81-b516-37d97d37720c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "蛋糕师傅": {
+      "ver": "1.0.4",
+      "uuid": "11255be8-1c60-40bd-90a2-414a6f8e1414",
+      "rawTextureUuid": "347b9787-36a7-4b81-b516-37d97d37720c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1.5,
+      "offsetY": 0,
+      "trimX": 48,
+      "trimY": 22,
+      "width": 201,
+      "height": 256,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "49b0be88-1f06-4b37-adb6-fb1ca3a0ba23",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "搬运工人": {
+      "ver": "1.0.4",
+      "uuid": "0fd08619-429f-42cf-8749-4223f238d041",
+      "rawTextureUuid": "49b0be88-1f06-4b37-adb6-fb1ca3a0ba23",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 46,
+      "trimY": 15,
+      "width": 208,
+      "height": 270,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

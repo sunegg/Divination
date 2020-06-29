@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4c1a1476-7a58-466c-8fdb-b0ff58156c18",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "古典音乐学家": {
+      "ver": "1.0.4",
+      "uuid": "a77c640d-dd8f-4c3f-b8af-e65c97d762ed",
+      "rawTextureUuid": "4c1a1476-7a58-466c-8fdb-b0ff58156c18",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 74,
+      "trimY": 11,
+      "width": 152,
+      "height": 278,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

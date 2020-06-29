@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "087a9fff-02c5-4f0f-a06b-b08905e627b3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "街头艺人": {
+      "ver": "1.0.4",
+      "uuid": "a414ec4b-e899-4fd0-8742-cb804f6f3e90",
+      "rawTextureUuid": "087a9fff-02c5-4f0f-a06b-b08905e627b3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 75,
+      "trimY": 16,
+      "width": 149,
+      "height": 267,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "55c28477-11b1-4ba6-bf04-1b3cc87dbfa6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "健身教练": {
+      "ver": "1.0.4",
+      "uuid": "064f0f76-eaa6-470f-b834-b96d9dbc86d2",
+      "rawTextureUuid": "55c28477-11b1-4ba6-bf04-1b3cc87dbfa6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 65,
+      "trimY": 16,
+      "width": 170,
+      "height": 268,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

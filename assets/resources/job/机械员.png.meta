@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4e152a72-d8a2-4503-a9ef-5975111316f9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "机械员": {
+      "ver": "1.0.4",
+      "uuid": "18dcee20-5971-45c4-8fa0-c54ff88c1637",
+      "rawTextureUuid": "4e152a72-d8a2-4503-a9ef-5975111316f9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 66,
+      "trimY": 18,
+      "width": 168,
+      "height": 264,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

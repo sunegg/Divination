@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "398b314b-dd41-46bd-b4e2-046c65b26077",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "卡车司机": {
+      "ver": "1.0.4",
+      "uuid": "6c055cb7-74cd-4aee-8ba5-8637458d3b04",
+      "rawTextureUuid": "398b314b-dd41-46bd-b4e2-046c65b26077",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 82,
+      "trimY": 20,
+      "width": 136,
+      "height": 260,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "5ebca216-1c21-460c-ba7e-bacd3f677d57",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "哑剧演员": {
+      "ver": "1.0.4",
+      "uuid": "33f222d8-adf2-4cc4-8e5a-7b6b17b9024e",
+      "rawTextureUuid": "5ebca216-1c21-460c-ba7e-bacd3f677d57",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 77,
+      "trimY": 16,
+      "width": 146,
+      "height": 269,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

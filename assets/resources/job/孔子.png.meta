@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f85f0ae9-12ae-4aba-b58d-7179612b9689",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "孔子": {
+      "ver": "1.0.4",
+      "uuid": "7c3cfaf1-91e4-4e11-824e-fa4adb00957a",
+      "rawTextureUuid": "f85f0ae9-12ae-4aba-b58d-7179612b9689",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 89,
+      "trimY": 28,
+      "width": 122,
+      "height": 244,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

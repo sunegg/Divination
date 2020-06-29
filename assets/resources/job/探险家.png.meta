@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c4db6c5e-8cef-4a30-bece-724558490f68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "探险家": {
+      "ver": "1.0.4",
+      "uuid": "2c5b1ff8-bb04-4d73-bc2e-cac6e7d960c5",
+      "rawTextureUuid": "c4db6c5e-8cef-4a30-bece-724558490f68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 48,
+      "trimY": 19,
+      "width": 202,
+      "height": 262,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7ef879f3-c417-4a9c-b4c2-f27f784e681a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "跆拳老师": {
+      "ver": "1.0.4",
+      "uuid": "115958f2-6f0c-4162-a360-b3398785ae27",
+      "rawTextureUuid": "7ef879f3-c417-4a9c-b4c2-f27f784e681a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 77,
+      "trimY": 16,
+      "width": 145,
+      "height": 268,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

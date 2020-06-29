@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a75c9e6e-effe-4446-b1dd-c0e311a9a30e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "太空员": {
+      "ver": "1.0.4",
+      "uuid": "a0f8dee2-0b74-4104-97dc-ce2da1bb1157",
+      "rawTextureUuid": "a75c9e6e-effe-4446-b1dd-c0e311a9a30e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 77,
+      "trimY": 14,
+      "width": 146,
+      "height": 272,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

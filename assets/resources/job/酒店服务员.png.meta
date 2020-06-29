@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f769ead1-bc50-4b0f-a790-c33cbb713904",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "酒店服务员": {
+      "ver": "1.0.4",
+      "uuid": "a2018f47-b59f-459c-9b5c-26406be4d5a2",
+      "rawTextureUuid": "f769ead1-bc50-4b0f-a790-c33cbb713904",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 82,
+      "trimY": 15,
+      "width": 136,
+      "height": 271,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

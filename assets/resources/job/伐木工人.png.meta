@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "18efa833-5197-4afd-9ccc-5d861e45395e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "伐木工人": {
+      "ver": "1.0.4",
+      "uuid": "0d719a6c-c968-43e9-8b10-2076af896665",
+      "rawTextureUuid": "18efa833-5197-4afd-9ccc-5d861e45395e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 77,
+      "trimY": 13,
+      "width": 145,
+      "height": 274,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

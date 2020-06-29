@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0332304b-5ad3-4590-b0b2-5049f52df56f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "白马王子": {
+      "ver": "1.0.4",
+      "uuid": "634c331e-29ad-45e7-9da0-754ba4bb9dc0",
+      "rawTextureUuid": "0332304b-5ad3-4590-b0b2-5049f52df56f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 83,
+      "trimY": 26,
+      "width": 134,
+      "height": 248,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2edefb73-cdf4-4513-a133-4da5b251b176",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "导演": {
+      "ver": "1.0.4",
+      "uuid": "62f66bce-2218-44c7-bb23-64a9ada312f4",
+      "rawTextureUuid": "2edefb73-cdf4-4513-a133-4da5b251b176",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 61,
+      "trimY": 13,
+      "width": 178,
+      "height": 274,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

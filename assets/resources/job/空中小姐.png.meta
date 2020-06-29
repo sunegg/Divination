@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "de3bd12d-2d0b-49d9-b7bb-a108b2a30539",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "空中小姐": {
+      "ver": "1.0.4",
+      "uuid": "5c7059b2-43f8-433b-acf7-80b1bb1581a2",
+      "rawTextureUuid": "de3bd12d-2d0b-49d9-b7bb-a108b2a30539",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 81,
+      "trimY": 15,
+      "width": 137,
+      "height": 271,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

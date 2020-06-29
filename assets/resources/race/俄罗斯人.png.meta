@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8c189b1f-940d-4832-aaaf-9fe68a99a54b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "俄罗斯人": {
+      "ver": "1.0.4",
+      "uuid": "32b30af7-b3ff-4f0a-8585-e3615ea89585",
+      "rawTextureUuid": "8c189b1f-940d-4832-aaaf-9fe68a99a54b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": 0,
+      "trimX": 45,
+      "trimY": 39,
+      "width": 225,
+      "height": 222,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

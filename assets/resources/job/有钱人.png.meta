@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8f15d895-3eaa-4d95-86ea-267b5fdc681a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "有钱人": {
+      "ver": "1.0.4",
+      "uuid": "ed634e6a-c2b3-4b89-8b36-843166ad9f97",
+      "rawTextureUuid": "8f15d895-3eaa-4d95-86ea-267b5fdc681a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 84,
+      "trimY": 32,
+      "width": 130,
+      "height": 236,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

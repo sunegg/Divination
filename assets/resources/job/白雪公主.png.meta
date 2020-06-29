@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a675773f-ce03-48c1-9eca-ffd3874af82a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "白雪公主": {
+      "ver": "1.0.4",
+      "uuid": "4d6927f6-0409-40c6-a208-69f62544c307",
+      "rawTextureUuid": "a675773f-ce03-48c1-9eca-ffd3874af82a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -9,
+      "offsetY": 0,
+      "trimX": 56,
+      "trimY": 23,
+      "width": 170,
+      "height": 254,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

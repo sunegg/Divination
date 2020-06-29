@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b255584d-e3eb-4e51-8f74-9009d3b655a3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "印度人": {
+      "ver": "1.0.4",
+      "uuid": "d823b079-551e-4f7c-8c37-239ec8770fd8",
+      "rawTextureUuid": "b255584d-e3eb-4e51-8f74-9009d3b655a3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": 0,
+      "trimX": 50,
+      "trimY": 37,
+      "width": 215,
+      "height": 226,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "50875b3f-7b42-4e5b-9ca5-be310d3e736e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "消防员": {
+      "ver": "1.0.4",
+      "uuid": "558cab8f-d71e-4727-bba1-e4f61127b22f",
+      "rawTextureUuid": "50875b3f-7b42-4e5b-9ca5-be310d3e736e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 73,
+      "trimY": 20,
+      "width": 154,
+      "height": 260,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

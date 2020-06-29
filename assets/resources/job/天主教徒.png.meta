@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e21158dd-7211-44f2-ab83-1087ec50de7d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "天主教徒": {
+      "ver": "1.0.4",
+      "uuid": "58b52f52-8fbc-41aa-89ea-54dbf645ff33",
+      "rawTextureUuid": "e21158dd-7211-44f2-ab83-1087ec50de7d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 85,
+      "trimY": 30,
+      "width": 130,
+      "height": 240,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

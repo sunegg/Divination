@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "7138273a-cb66-4a74-853a-947691ec6e29",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "护士": {
+      "ver": "1.0.4",
+      "uuid": "4cbfe53b-7c3d-4c21-a5f3-fbbcd06ec035",
+      "rawTextureUuid": "7138273a-cb66-4a74-853a-947691ec6e29",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 81,
+      "trimY": 22,
+      "width": 138,
+      "height": 256,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

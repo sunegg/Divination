@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "e90dae9e-2470-475b-af07-665da9899cf2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "土耳其人": {
+      "ver": "1.0.4",
+      "uuid": "c29c7926-752b-48e0-8e2b-b0ee1a09b564",
+      "rawTextureUuid": "e90dae9e-2470-475b-af07-665da9899cf2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 7.5,
+      "offsetY": 0,
+      "trimX": 42,
+      "trimY": 36,
+      "width": 231,
+      "height": 228,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

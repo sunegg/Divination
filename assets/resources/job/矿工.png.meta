@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "27f2095a-ff16-42fd-8439-2787cdd5e74f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "矿工": {
+      "ver": "1.0.4",
+      "uuid": "4d0e509c-4029-4a45-a4ea-b8ad0fb0d2e2",
+      "rawTextureUuid": "27f2095a-ff16-42fd-8439-2787cdd5e74f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 52,
+      "trimY": 14,
+      "width": 196,
+      "height": 272,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

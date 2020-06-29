@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f32a511e-9943-4e93-b6a0-3f9e8e7b07ad",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "马戏团员": {
+      "ver": "1.0.4",
+      "uuid": "bf4fb648-cfcc-4787-8290-fdef2d8f95f6",
+      "rawTextureUuid": "f32a511e-9943-4e93-b6a0-3f9e8e7b07ad",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": -0.5,
+      "trimX": 25,
+      "trimY": 15,
+      "width": 248,
+      "height": 271,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

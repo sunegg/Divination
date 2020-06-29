@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "41a79569-c9bb-4693-97c0-5b20adbd9984",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "考古学家": {
+      "ver": "1.0.4",
+      "uuid": "cbc5a2a4-0162-4e50-8cf5-ebb49ed5a0b0",
+      "rawTextureUuid": "41a79569-c9bb-4693-97c0-5b20adbd9984",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -0.5,
+      "trimX": 82,
+      "trimY": 17,
+      "width": 136,
+      "height": 267,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

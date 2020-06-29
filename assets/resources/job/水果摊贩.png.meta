@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "0424e311-d0fc-48a6-ba0c-3c147de1316d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "水果摊贩": {
+      "ver": "1.0.4",
+      "uuid": "03784e72-d402-4e34-aeec-59e1f9d875f2",
+      "rawTextureUuid": "0424e311-d0fc-48a6-ba0c-3c147de1316d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 63,
+      "trimY": 15,
+      "width": 174,
+      "height": 270,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

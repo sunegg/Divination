@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "38e8a9c9-3537-419f-b0d7-6ed57db69133",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "店员": {
+      "ver": "1.0.4",
+      "uuid": "e49ef3a0-2b29-4811-8802-8081f76e9167",
+      "rawTextureUuid": "38e8a9c9-3537-419f-b0d7-6ed57db69133",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 85,
+      "trimY": 16,
+      "width": 130,
+      "height": 268,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
