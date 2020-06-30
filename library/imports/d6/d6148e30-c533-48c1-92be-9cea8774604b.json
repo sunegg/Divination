@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "作词家",
+    "texture": "1bdde197-dfd6-4541-a5d5-9c7670430813",
+    "atlas": "",
+    "rect": [
+      84,
+      27,
+      132,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

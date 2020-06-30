@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "猪八戒",
+    "texture": "00c5fe1b-1993-41dc-b6e9-92ccbcce04aa",
+    "atlas": "",
+    "rect": [
+      49,
+      35,
+      202,
+      231
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "木乃伊",
+    "texture": "21b3091f-cfe8-4bf6-ba72-e999840f4eb9",
+    "atlas": "",
+    "rect": [
+      78,
+      24,
+      144,
+      254
+    ],
+    "offset": [
+      0,
+      -1
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

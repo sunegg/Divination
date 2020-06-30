@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "矿工",
+    "texture": "27f2095a-ff16-42fd-8439-2787cdd5e74f",
+    "atlas": "",
+    "rect": [
+      52,
+      14,
+      196,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

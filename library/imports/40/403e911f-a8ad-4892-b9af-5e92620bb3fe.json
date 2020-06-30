@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "睡美人",
+    "texture": "19c9503c-387e-4aed-9def-90100dd01284",
+    "atlas": "",
+    "rect": [
+      70,
+      21,
+      160,
+      259
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

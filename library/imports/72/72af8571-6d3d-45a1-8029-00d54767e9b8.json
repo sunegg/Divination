@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "瑞士人",
+    "texture": "1c1db337-a3e7-4c01-88e6-8d4763fb9977",
+    "atlas": "",
+    "rect": [
+      43,
+      41,
+      229,
+      218
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

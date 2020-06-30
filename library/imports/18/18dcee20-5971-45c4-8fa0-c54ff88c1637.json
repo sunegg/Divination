@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "机械员",
+    "texture": "4e152a72-d8a2-4503-a9ef-5975111316f9",
+    "atlas": "",
+    "rect": [
+      66,
+      18,
+      168,
+      264
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

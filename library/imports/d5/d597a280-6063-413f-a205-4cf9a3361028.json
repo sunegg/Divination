@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "葡萄牙人",
+    "texture": "00f41703-7958-4f09-bc77-fe3d9dd05f89",
+    "atlas": "",
+    "rect": [
+      39,
+      26,
+      237,
+      249
+    ],
+    "offset": [
+      7.5,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

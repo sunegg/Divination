@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "哑剧演员",
+    "texture": "5ebca216-1c21-460c-ba7e-bacd3f677d57",
+    "atlas": "",
+    "rect": [
+      77,
+      16,
+      146,
+      269
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

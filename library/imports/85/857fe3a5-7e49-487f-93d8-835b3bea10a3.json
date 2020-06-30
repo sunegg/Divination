@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "绅士",
+    "texture": "7a5713af-4201-4c9b-8d76-7feb6be164ca",
+    "atlas": "",
+    "rect": [
+      86,
+      30,
+      130,
+      240
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

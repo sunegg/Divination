@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "苏格拉底",
+    "texture": "617988e9-0cbc-41a9-978b-1f49f5f6b6db",
+    "atlas": "",
+    "rect": [
+      85,
+      32,
+      131,
+      236
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

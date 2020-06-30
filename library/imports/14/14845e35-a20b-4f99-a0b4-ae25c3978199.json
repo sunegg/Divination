@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "模特",
+    "texture": "999e0951-bb76-42ea-9aee-603804697bba",
+    "atlas": "",
+    "rect": [
+      78,
+      15,
+      144,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

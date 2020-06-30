@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蛋糕师傅",
+    "texture": "347b9787-36a7-4b81-b516-37d97d37720c",
+    "atlas": "",
+    "rect": [
+      48,
+      22,
+      201,
+      256
+    ],
+    "offset": [
+      -1.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

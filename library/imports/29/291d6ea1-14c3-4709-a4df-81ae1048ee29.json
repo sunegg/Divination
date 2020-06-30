@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "野兽",
+    "texture": "f7a3808a-303c-49b9-901b-025c1239a69b",
+    "atlas": "",
+    "rect": [
+      85,
+      21,
+      130,
+      258
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

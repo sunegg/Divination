@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Play Scene_Top bar",
+    "texture": "68fa208e-12bd-4a75-a3ae-9bf96dcace3e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1090,
+      178
+    ],
+    "offset": [
+      0,
+      12
+    ],
+    "originalSize": [
+      1090,
+      202
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

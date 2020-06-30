@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "钢琴家",
+    "texture": "9f504ef3-b1ee-4692-a620-9ef48718c6a6",
+    "atlas": "",
+    "rect": [
+      63,
+      20,
+      174,
+      261
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

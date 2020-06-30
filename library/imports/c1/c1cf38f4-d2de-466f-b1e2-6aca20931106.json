@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "建筑工人",
+    "texture": "00298a3a-48f0-4691-ba28-142014c1be47",
+    "atlas": "",
+    "rect": [
+      73,
+      13,
+      154,
+      274
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

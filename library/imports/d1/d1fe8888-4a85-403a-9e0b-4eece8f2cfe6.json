@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "图书馆老师",
+    "texture": "61965a50-16ed-4773-a4c1-0470a6c237e3",
+    "atlas": "",
+    "rect": [
+      54,
+      11,
+      192,
+      278
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

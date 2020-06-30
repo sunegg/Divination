@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "音乐大师",
+    "texture": "f6e16ef8-68cc-4aca-ba2e-f53133e4c9d2",
+    "atlas": "",
+    "rect": [
+      54,
+      17,
+      192,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

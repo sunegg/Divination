@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "店员",
+    "texture": "38e8a9c9-3537-419f-b0d7-6ed57db69133",
+    "atlas": "",
+    "rect": [
+      85,
+      16,
+      130,
+      268
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

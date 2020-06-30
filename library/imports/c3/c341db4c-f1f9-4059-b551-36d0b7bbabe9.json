@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "南瓜人",
+    "texture": "9b48240f-cfc1-4fb1-951b-976eb8377459",
+    "atlas": "",
+    "rect": [
+      80,
+      23,
+      140,
+      257
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "蓝精灵",
+    "texture": "bad82c84-cbd3-4ee3-86e9-3a5a9813837c",
+    "atlas": "",
+    "rect": [
+      82,
+      23,
+      137,
+      254
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

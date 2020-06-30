@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "修女",
+    "texture": "9a6deeff-ee7d-4752-8aca-faa3d7969990",
+    "atlas": "",
+    "rect": [
+      77,
+      15,
+      145,
+      270
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

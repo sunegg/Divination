@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "英国人",
+    "texture": "baf3f1c1-f680-47b5-99a8-2efc52b4ef3e",
+    "atlas": "",
+    "rect": [
+      57,
+      41,
+      201,
+      218
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

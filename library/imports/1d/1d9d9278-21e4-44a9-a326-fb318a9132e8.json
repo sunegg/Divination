@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "医生",
+    "texture": "94ba8cd4-a3d8-4875-864e-d4825b88a041",
+    "atlas": "",
+    "rect": [
+      78,
+      17,
+      144,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

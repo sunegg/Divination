@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "耶稣",
+    "texture": "dfc311da-c0e9-41c9-a59c-4f683fea54a2",
+    "atlas": "",
+    "rect": [
+      82,
+      30,
+      136,
+      240
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

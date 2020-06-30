@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "太空员",
+    "texture": "a75c9e6e-effe-4446-b1dd-c0e311a9a30e",
+    "atlas": "",
+    "rect": [
+      77,
+      14,
+      146,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

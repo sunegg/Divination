@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "未诞生",
+    "texture": "21dc3028-8396-410c-b008-9852aa5afb64",
+    "atlas": "",
+    "rect": [
+      30,
+      45,
+      240,
+      135
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      225
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

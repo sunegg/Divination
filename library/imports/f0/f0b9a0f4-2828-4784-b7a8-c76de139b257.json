@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "屠夫",
+    "texture": "9636fe50-683a-4a13-93f9-6240c7dccb56",
+    "atlas": "",
+    "rect": [
+      71,
+      17,
+      158,
+      267
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

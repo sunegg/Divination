@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "阿里巴巴",
+    "texture": "dfbeb5fe-f46e-4010-9634-4757591ca748",
+    "atlas": "",
+    "rect": [
+      67,
+      29,
+      166,
+      242
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

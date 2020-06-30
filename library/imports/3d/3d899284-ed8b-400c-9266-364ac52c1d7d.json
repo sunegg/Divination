@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "航空家",
+    "texture": "81a71f73-67f6-43dc-b0cb-0facdb68b0d2",
+    "atlas": "",
+    "rect": [
+      81,
+      16,
+      138,
+      268
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

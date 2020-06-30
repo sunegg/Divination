@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "阿拉丁公主",
+    "texture": "c2385bcf-c5b4-4251-a326-ab76a0a29cba",
+    "atlas": "",
+    "rect": [
+      76,
+      21,
+      149,
+      258
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

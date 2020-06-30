@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "理发师",
+    "texture": "9823337b-6ebd-4c51-8e74-5ddbc23c2f96",
+    "atlas": "",
+    "rect": [
+      64,
+      17,
+      172,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

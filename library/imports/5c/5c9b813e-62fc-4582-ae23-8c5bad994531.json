@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "海盗",
+    "texture": "ae67f8d3-ee2a-4662-8826-ea8ac95c7c55",
+    "atlas": "",
+    "rect": [
+      75,
+      14,
+      151,
+      272
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

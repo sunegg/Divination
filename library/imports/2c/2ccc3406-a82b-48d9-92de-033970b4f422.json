@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "保安人员",
+    "texture": "d3f15f5b-d40e-4290-9ac5-94434e846c1a",
+    "atlas": "",
+    "rect": [
+      78,
+      19,
+      144,
+      262
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

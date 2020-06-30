@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "德国人",
+    "texture": "d8688f98-8ba3-42d6-8a64-c618d9215b94",
+    "atlas": "",
+    "rect": [
+      53,
+      29,
+      209,
+      242
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

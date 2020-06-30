@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "导演",
+    "texture": "2edefb73-cdf4-4513-a133-4da5b251b176",
+    "atlas": "",
+    "rect": [
+      61,
+      13,
+      178,
+      274
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

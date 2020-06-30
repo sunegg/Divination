@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "洁道夫",
+    "texture": "b7ddae66-9fa9-47a8-a51b-fe02bde3aa13",
+    "atlas": "",
+    "rect": [
+      66,
+      19,
+      168,
+      262
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

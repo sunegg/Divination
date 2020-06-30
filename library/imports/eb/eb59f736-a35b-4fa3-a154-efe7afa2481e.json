@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "音乐老师",
+    "texture": "3c722b0b-ce0d-4456-8e40-f9170df7cb16",
+    "atlas": "",
+    "rect": [
+      63,
+      26,
+      173,
+      256
+    ],
+    "offset": [
+      -0.5,
+      -4
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

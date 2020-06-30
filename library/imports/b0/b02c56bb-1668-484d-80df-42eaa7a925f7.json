@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "法国人",
+    "texture": "e323c402-e0c8-4111-b97e-bdca57670edc",
+    "atlas": "",
+    "rect": [
+      46,
+      40,
+      223,
+      220
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

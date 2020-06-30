@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "小丑",
+    "texture": "541b7c42-b964-46c7-8716-d8adeb9ad0e8",
+    "atlas": "",
+    "rect": [
+      76,
+      10,
+      148,
+      280
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

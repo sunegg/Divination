@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "跆拳老师",
+    "texture": "7ef879f3-c417-4a9c-b4c2-f27f784e681a",
+    "atlas": "",
+    "rect": [
+      77,
+      16,
+      145,
+      268
+    ],
+    "offset": [
+      -0.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

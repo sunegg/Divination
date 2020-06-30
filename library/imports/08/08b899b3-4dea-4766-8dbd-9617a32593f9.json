@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "卢梭",
+    "texture": "f7f6164b-9a1c-4660-a147-24545c0c3d58",
+    "atlas": "",
+    "rect": [
+      85,
+      30,
+      128,
+      240
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

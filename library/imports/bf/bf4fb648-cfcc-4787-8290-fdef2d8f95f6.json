@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "马戏团员",
+    "texture": "f32a511e-9943-4e93-b6a0-3f9e8e7b07ad",
+    "atlas": "",
+    "rect": [
+      25,
+      15,
+      248,
+      271
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

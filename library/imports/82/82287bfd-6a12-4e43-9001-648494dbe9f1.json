@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "法官",
+    "texture": "86d93ee9-d511-4237-944a-d8ffb97139d2",
+    "atlas": "",
+    "rect": [
+      68,
+      17,
+      164,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

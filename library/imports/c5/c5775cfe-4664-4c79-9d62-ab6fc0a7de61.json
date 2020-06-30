@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "程序员",
+    "texture": "181b29bf-1c05-4a2a-8eea-d1c4849211dd",
+    "atlas": "",
+    "rect": [
+      55,
+      26,
+      190,
+      248
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

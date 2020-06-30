@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "莫扎特",
+    "texture": "5554dcfa-bdb7-4532-bbba-2ca4679d54b9",
+    "atlas": "",
+    "rect": [
+      89,
+      20,
+      124,
+      263
+    ],
+    "offset": [
+      1,
+      -1.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

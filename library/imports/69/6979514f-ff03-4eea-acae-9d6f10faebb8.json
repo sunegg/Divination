@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "日本人",
+    "texture": "ceb554f7-ccc2-4312-8c45-2d0f79e13dd8",
+    "atlas": "",
+    "rect": [
+      53,
+      33,
+      209,
+      234
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

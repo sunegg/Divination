@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "女鬼",
+    "texture": "9f0463a5-43b5-42b9-9a5b-befeabc6419c",
+    "atlas": "",
+    "rect": [
+      64,
+      24,
+      170,
+      252
+    ],
+    "offset": [
+      -1,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

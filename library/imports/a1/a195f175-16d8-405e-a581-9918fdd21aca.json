@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "female",
+    "texture": "3209f476-3faf-4f8c-a85e-0d4f05918cd7",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      227,
+      226
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      227,
+      226
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

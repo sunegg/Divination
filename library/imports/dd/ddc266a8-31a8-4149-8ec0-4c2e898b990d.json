@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "以色列人",
+    "texture": "ba7e524a-ddea-4cb8-8e83-8f2568890a93",
+    "atlas": "",
+    "rect": [
+      42,
+      42,
+      231,
+      216
+    ],
+    "offset": [
+      7.5,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

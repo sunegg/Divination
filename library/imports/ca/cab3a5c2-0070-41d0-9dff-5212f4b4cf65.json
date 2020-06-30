@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "古髅头",
+    "texture": "64248c1d-8c91-4ce7-ac2e-9abebd66fe04",
+    "atlas": "",
+    "rect": [
+      78,
+      23,
+      146,
+      254
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

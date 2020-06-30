@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "书记",
+    "texture": "e815b840-01c3-4a80-a495-103305c9f434",
+    "atlas": "",
+    "rect": [
+      76,
+      14,
+      148,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

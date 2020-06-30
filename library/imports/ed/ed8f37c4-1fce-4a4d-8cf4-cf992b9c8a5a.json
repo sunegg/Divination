@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "机长",
+    "texture": "b2009815-d046-4911-98a1-e9c9a59246a7",
+    "atlas": "",
+    "rect": [
+      80,
+      13,
+      140,
+      274
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

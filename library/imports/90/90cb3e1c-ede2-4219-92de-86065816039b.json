@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "吸血鬼",
+    "texture": "4fe45e79-5d7e-4394-9409-c8908e04e614",
+    "atlas": "",
+    "rect": [
+      80,
+      17,
+      140,
+      266
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

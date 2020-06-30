@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "佩奇",
+    "texture": "86751c28-e174-4eb8-b23a-2a9ccd8cb795",
+    "atlas": "",
+    "rect": [
+      59,
+      27,
+      182,
+      246
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

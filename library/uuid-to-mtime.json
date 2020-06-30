@@ -1,0 +1,1472 @@
+{
+  "9836134e-b892-4283-b6b2-78b5acf3ed45": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "effects"
+  },
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "image"
+  },
+  "5c3eedba-6c41-4c0c-9ba7-d91f813cbd1c": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "materials"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "misc"
+  },
+  "db019bf7-f71c-4111-98cf-918ea180cb48": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "model"
+  },
+  "e39e96e6-6f6e-413f-bcf1-ac7679bb648a": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "model/prefab"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "obsolete"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "particle"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "prefab"
+  },
+  "a3ee0214-b432-4865-9666-4a3211814282": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "prefab/light"
+  },
+  "d8afc78c-4eac-4a9f-83dd-67bc70344d33": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "resources"
+  },
+  "294c1663-4adf-4a1e-a795-53808011a38a": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "resources/effects"
+  },
+  "bbee2217-c261-49bd-a8ce-708d6bcc3500": {
+    "asset": 1590034539000,
+    "meta": 1590034539000,
+    "relativePath": "resources/materials"
+  },
+  "29f52784-2fca-467b-92e7-8fd9ef8c57b7": {
+    "asset": 1593368379607,
+    "meta": 1593262111854,
+    "relativePath": "scenes"
+  },
+  "4734c20c-0db8-4eb2-92ea-e692f4d70934": {
+    "asset": 1593417438448,
+    "meta": 1593262111854,
+    "relativePath": "scripts"
+  },
+  "7b81d4e8-ec84-4716-968d-500ac1d78a54": {
+    "asset": 1593486639134,
+    "meta": 1593262111854,
+    "relativePath": "textures"
+  },
+  "2d2f792f-a40c-49bb-a189-ed176a246e49": {
+    "asset": 1593491759060,
+    "meta": 1593491759063,
+    "relativePath": "scenes/entry.fire"
+  },
+  "bcf8e2aa-fe3a-4483-aca2-7d26127269e2": {
+    "asset": 1593263251421,
+    "meta": 1593263190364,
+    "relativePath": "fonts"
+  },
+  "4e5fd7e5-59dc-4f9e-a4c4-ad72649fd30e": {
+    "asset": 1593263240767,
+    "meta": 1593263240774,
+    "relativePath": "fonts/SIMYOU.TTF"
+  },
+  "12317f10-bcc6-40cf-a05d-853f649e69ea": {
+    "asset": 1593491627945,
+    "meta": 1593491627952,
+    "relativePath": "scenes/main.fire"
+  },
+  "e09fbafe-7dc8-4f25-bab9-f1528afaf4f8": {
+    "asset": 1593329537936,
+    "meta": 1593418681863,
+    "relativePath": "audios/bgm.mp3"
+  },
+  "46249b6c-0251-4db8-b30b-05b8c222e422": {
+    "asset": 1593333623929,
+    "meta": 1593333627558,
+    "relativePath": "scripts/AudioManager.ts"
+  },
+  "92a4f88b-ab8f-47a1-9336-e70090579da6": {
+    "asset": 1593341291508,
+    "meta": 1593341381707,
+    "relativePath": "scripts/UILoadScene.ts"
+  },
+  "1e4deedf-4b96-4768-a513-fc43e666f4f1": {
+    "asset": 1593346439664,
+    "meta": 1593346441294,
+    "relativePath": "scripts/UIGenderBtn.ts"
+  },
+  "6ff40d77-d2e3-44de-baa8-82b2433a36f2": {
+    "asset": 1593508519065,
+    "meta": 1593508519071,
+    "relativePath": "scenes/game.fire"
+  },
+  "c7e5211e-4324-467f-a987-7c3819047dae": {
+    "asset": 1593355072364,
+    "meta": 1593355074805,
+    "relativePath": "scripts/UIShowNode.ts"
+  },
+  "bab2bdae-874b-407e-a1db-f4211b4cf0ac": {
+    "asset": 1593402252392,
+    "meta": 1593355460417,
+    "relativePath": "resources"
+  },
+  "1a0a590b-71f8-4fb9-ace8-9d6f0eaf0757": {
+    "asset": 1593367582165,
+    "meta": 1593355476300,
+    "relativePath": "resources/race"
+  },
+  "537cbe78-9a25-4e36-8967-071424732337": {
+    "asset": 1593368241534,
+    "meta": 1593355506638,
+    "relativePath": "resources/job"
+  },
+  "7a47641e-8a7d-4d8e-8968-c2b9f7487f20": {
+    "asset": 1593367131736,
+    "meta": 1593367147589,
+    "relativePath": "scripts/UICheckBtn.ts"
+  },
+  "1cb917bd-9671-4501-8aec-e5939c48c458": {
+    "asset": 1593418681858,
+    "meta": 1593368138057,
+    "relativePath": "audios"
+  },
+  "0f2739d6-b88c-45ae-ab60-de64b51a3a40": {
+    "asset": 1593525522826,
+    "meta": 1593525522830,
+    "relativePath": "scenes/appegg.fire"
+  },
+  "68ef788a-6cef-46d3-905f-9784ef87ad42": {
+    "asset": 1593370949364,
+    "meta": 1593370949370,
+    "relativePath": "scenes/web.fire"
+  },
+  "95bac628-c864-4ff0-8167-eccc2bd710f1": {
+    "asset": 1593397813233,
+    "meta": 1593397894097,
+    "relativePath": "scripts/WebViewObject.ts"
+  },
+  "430eccbf-bf2c-4e6e-8c0c-884bbb487f32": {
+    "asset": 1590034539000,
+    "meta": 1593413156281,
+    "relativePath": "effects/__builtin-editor-gizmo-line.effect"
+  },
+  "6c5cf6e1-b044-4eac-9431-835644d57381": {
+    "asset": 1590034539000,
+    "meta": 1593413156289,
+    "relativePath": "effects/__builtin-editor-gizmo-unlit.effect"
+  },
+  "115286d1-2e10-49ee-aab4-341583f607e8": {
+    "asset": 1590034539000,
+    "meta": 1593413156314,
+    "relativePath": "effects/__builtin-editor-gizmo.effect"
+  },
+  "abc2cb62-7852-4525-a90d-d474487b88f2": {
+    "asset": 1590034539000,
+    "meta": 1593413156379,
+    "relativePath": "effects/builtin-phong.effect"
+  },
+  "e2f00085-c597-422d-9759-52c360279106": {
+    "asset": 1590034539000,
+    "meta": 1593413156425,
+    "relativePath": "effects/builtin-toon.effect"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1590034539000,
+    "meta": 1593413156444,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1590034539000,
+    "meta": 1593413156444,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1590034539000,
+    "meta": 1593413156454,
+    "relativePath": "image/default_editbox_bg.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1590034539000,
+    "meta": 1593413156455,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1590034539000,
+    "meta": 1593413156464,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1590034539000,
+    "meta": 1593413156463,
+    "relativePath": "image/default_panel.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1590034539000,
+    "meta": 1593413156471,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1590034539000,
+    "meta": 1593413156472,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1590034539000,
+    "meta": 1593413156483,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1590034539000,
+    "meta": 1593413156482,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1590034539000,
+    "meta": 1593413156494,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1590034539000,
+    "meta": 1593413156494,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1590034539000,
+    "meta": 1593413156500,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1590034539000,
+    "meta": 1593413156502,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1590034539000,
+    "meta": 1593413156511,
+    "relativePath": "image/default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1590034539000,
+    "meta": 1593413156512,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1590034539000,
+    "meta": 1593413156523,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1590034539000,
+    "meta": 1593413156524,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1590034539000,
+    "meta": 1593413156533,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "c4480a0a-6ac5-443f-8b40-361a14257fc8": {
+    "asset": 1590034539000,
+    "meta": 1593413156717,
+    "relativePath": "materials/builtin-phong.mtl"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1590034539000,
+    "meta": 1593413156538,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "a87cc147-01b2-43f8-8e42-a7ca90b0c757": {
+    "asset": 1591827464472,
+    "meta": 1593413156541,
+    "relativePath": "model/prefab/box.prefab"
+  },
+  "fe1417b6-fe6b-46a4-ae7c-9fd331f33a2a": {
+    "asset": 1591827464473,
+    "meta": 1593413156542,
+    "relativePath": "model/prefab/capsule.prefab"
+  },
+  "b5fc2cf2-7942-483d-be1f-bbeadc4714ad": {
+    "asset": 1591827464475,
+    "meta": 1593413156544,
+    "relativePath": "model/prefab/cone.prefab"
+  },
+  "1c5e4038-953a-44c2-b620-0bbfc6170477": {
+    "asset": 1591827464477,
+    "meta": 1593413156545,
+    "relativePath": "model/prefab/cylinder.prefab"
+  },
+  "3f376125-a699-40ca-ad05-04d662eaa1f2": {
+    "asset": 1591827464479,
+    "meta": 1593413156547,
+    "relativePath": "model/prefab/plane.prefab"
+  },
+  "6c9ef10d-b479-420b-bfe6-39cdda6a8ae0": {
+    "asset": 1591827464480,
+    "meta": 1593413156548,
+    "relativePath": "model/prefab/quad.prefab"
+  },
+  "2d9a4b85-b0ab-4c46-84c5-18f393ab2058": {
+    "asset": 1591827464481,
+    "meta": 1593413156549,
+    "relativePath": "model/prefab/sphere.prefab"
+  },
+  "de510076-056b-484f-b94c-83bef217d0e1": {
+    "asset": 1591827464497,
+    "meta": 1593413156552,
+    "relativePath": "model/prefab/torus.prefab"
+  },
+  "600301aa-3357-4a10-b086-84f011fa32ba": {
+    "asset": 1590034539000,
+    "meta": 1593413156546,
+    "relativePath": "image/default-particle.png"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1590034539000,
+    "meta": 1593413156562,
+    "relativePath": "obsolete/atom.png"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1590034539000,
+    "meta": 1593413156724,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1590034539000,
+    "meta": 1593413156564,
+    "relativePath": "particle/atom.png"
+  },
+  "897ef7a1-4860-4f64-968d-f5924b18668a": {
+    "asset": 1591827464518,
+    "meta": 1593413156563,
+    "relativePath": "prefab/2d-camera.prefab"
+  },
+  "70d7cdb0-04cd-41bb-9480-c06a4785f386": {
+    "asset": 1591827464519,
+    "meta": 1593413156565,
+    "relativePath": "prefab/3d-camera.prefab"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1590034539000,
+    "meta": 1593413156725,
+    "relativePath": "particle/atom.plist"
+  },
+  "70bbeb73-6dc2-4ee4-8faf-76b3a0e34ec4": {
+    "asset": 1591827464521,
+    "meta": 1593413156567,
+    "relativePath": "prefab/3d-particle.prefab"
+  },
+  "ed88f13d-fcad-4848-aa35-65a2cb973584": {
+    "asset": 1591827464525,
+    "meta": 1593413156568,
+    "relativePath": "prefab/3d-stage.prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1591827464527,
+    "meta": 1593413156569,
+    "relativePath": "prefab/button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1591827464529,
+    "meta": 1593413156570,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1591827464531,
+    "meta": 1593413156572,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1591827464532,
+    "meta": 1593413156572,
+    "relativePath": "prefab/label.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1591827464533,
+    "meta": 1593413156574,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "61906da3-7003-4bda-9abc-5769c76faee4": {
+    "asset": 1591827464535,
+    "meta": 1593413156574,
+    "relativePath": "prefab/light/ambient.prefab"
+  },
+  "ddb99b39-7004-47cd-9705-751905c43c46": {
+    "asset": 1591827464536,
+    "meta": 1593413156576,
+    "relativePath": "prefab/light/directional.prefab"
+  },
+  "0cf30284-9073-46bc-9eba-e62b69dbbff3": {
+    "asset": 1591827464537,
+    "meta": 1593413156575,
+    "relativePath": "prefab/light/point.prefab"
+  },
+  "f5331fd2-bf42-4ee3-a3fd-3e1657600eff": {
+    "asset": 1591827464538,
+    "meta": 1593413156577,
+    "relativePath": "prefab/light/spot.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1591827464540,
+    "meta": 1593413156579,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1591827464545,
+    "meta": 1593413156578,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1591827464546,
+    "meta": 1593413156581,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1591827464548,
+    "meta": 1593413156580,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1591827464550,
+    "meta": 1593413156583,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1591827464552,
+    "meta": 1593413156582,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1591827464553,
+    "meta": 1593413156585,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1591827464555,
+    "meta": 1593413156584,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1591827464556,
+    "meta": 1593413156586,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1591827464558,
+    "meta": 1593413156587,
+    "relativePath": "prefab/tiledtile.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1591827464559,
+    "meta": 1593413156588,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1591827464561,
+    "meta": 1593413156589,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1591827464565,
+    "meta": 1593413156592,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1591827464564,
+    "meta": 1593413156591,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "144c3297-af63-49e8-b8ef-1cfa29b3be28": {
+    "asset": 1590034539000,
+    "meta": 1593413156597,
+    "relativePath": "resources/effects/builtin-2d-gray-sprite.effect"
+  },
+  "0e93aeaa-0b53-4e40-b8e0-6268b4e07bd7": {
+    "asset": 1590034539000,
+    "meta": 1593413156604,
+    "relativePath": "resources/effects/builtin-2d-spine.effect"
+  },
+  "2874f8dd-416c-4440-81b7-555975426e93": {
+    "asset": 1590034539000,
+    "meta": 1593413156610,
+    "relativePath": "resources/effects/builtin-2d-sprite.effect"
+  },
+  "829a282c-b049-4019-bd38-5ace8d8a6417": {
+    "asset": 1590034539000,
+    "meta": 1593413156674,
+    "relativePath": "resources/effects/builtin-3d-particle.effect"
+  },
+  "2a7c0036-e0b3-4fe1-8998-89a54b8a2bec": {
+    "asset": 1590034539000,
+    "meta": 1593413156689,
+    "relativePath": "resources/effects/builtin-3d-trail.effect"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1591827464567,
+    "meta": 1593413156690,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "c0040c95-c57f-49cd-9cbc-12316b73d0d4": {
+    "asset": 1590034539000,
+    "meta": 1593413156694,
+    "relativePath": "resources/effects/builtin-clear-stencil.effect"
+  },
+  "6d91e591-4ce0-465c-809f-610ec95019c6": {
+    "asset": 1590034539000,
+    "meta": 1593413156706,
+    "relativePath": "resources/effects/builtin-unlit.effect"
+  },
+  "6f801092-0c37-4f30-89ef-c8d960825b36": {
+    "asset": 1590034539000,
+    "meta": 1593413156728,
+    "relativePath": "resources/materials/builtin-2d-base.mtl"
+  },
+  "3a7bb79f-32fd-422e-ada2-96f518fed422": {
+    "asset": 1590034539000,
+    "meta": 1593413156729,
+    "relativePath": "resources/materials/builtin-2d-gray-sprite.mtl"
+  },
+  "7afd064b-113f-480e-b793-8817d19f63c3": {
+    "asset": 1590034539000,
+    "meta": 1593413156729,
+    "relativePath": "resources/materials/builtin-2d-spine.mtl"
+  },
+  "eca5d2f2-8ef6-41c2-bbe6-f9c79d09c432": {
+    "asset": 1590034539000,
+    "meta": 1593413156729,
+    "relativePath": "resources/materials/builtin-2d-sprite.mtl"
+  },
+  "432fa09c-cf03-4cff-a186-982604408a07": {
+    "asset": 1590034539000,
+    "meta": 1593413156730,
+    "relativePath": "resources/materials/builtin-3d-particle.mtl"
+  },
+  "466d4f9b-e5f4-4ea8-85d5-3c6e9a65658a": {
+    "asset": 1590034539000,
+    "meta": 1593413156730,
+    "relativePath": "resources/materials/builtin-3d-trail.mtl"
+  },
+  "cf7e0bb8-a81c-44a9-ad79-d28d43991032": {
+    "asset": 1590034539000,
+    "meta": 1593413156730,
+    "relativePath": "resources/materials/builtin-clear-stencil.mtl"
+  },
+  "2a296057-247c-4a1c-bbeb-0548b6c98650": {
+    "asset": 1590034539000,
+    "meta": 1593413156731,
+    "relativePath": "resources/materials/builtin-unlit.mtl"
+  },
+  "96045eb9-a078-48c4-bffe-6beb8ed64d34": {
+    "asset": 1593402252389,
+    "meta": 1593402252392,
+    "relativePath": "resources/UIDatePicker"
+  },
+  "252a59c0-abaa-4b38-84ea-5d6c1637f1ff": {
+    "asset": 1593402252390,
+    "meta": 1593402252553,
+    "relativePath": "resources/UIDatePicker/UIItemDay.js"
+  },
+  "3ca4e690-4c99-4965-a7c9-314c1e78d9fd": {
+    "asset": 1593403081650,
+    "meta": 1593403081654,
+    "relativePath": "resources/UIDatePicker/UIItemDay.prefab"
+  },
+  "03f60b8d-8257-4cca-bf4f-0ba150c6305e": {
+    "asset": 1593402252568,
+    "meta": 1593402252568,
+    "relativePath": "resources/UIDatePicker/UIDatePicker.prefab"
+  },
+  "954fec8b-cd16-4bb9-a3b7-7719660e7558": {
+    "asset": 1590034539000,
+    "meta": 1593407648277,
+    "relativePath": "model/primitives.fbx"
+  },
+  "6d10697e-b434-4be6-b6c0-538e620a7b6c": {
+    "asset": 1593409101033,
+    "meta": 1593409102040,
+    "relativePath": "resources/UIDatePicker/UIDatePicker.js"
+  },
+  "c7a17a3c-9acf-4c9e-a167-a73e1cfc3931": {
+    "asset": 1593409666257,
+    "meta": 1593409666665,
+    "relativePath": "scripts/GameData.ts"
+  },
+  "83e8beec-f1ce-428b-81e5-f008771cddaa": {
+    "asset": 1593410945362,
+    "meta": 1593410949421,
+    "relativePath": "scripts/UIEditBoxGroup.ts"
+  },
+  "f2b56e46-f50c-4acd-9223-a177968b69be": {
+    "asset": 1593411938409,
+    "meta": 1593411944040,
+    "relativePath": "scripts/GameManager.ts"
+  },
+  "5645cc3e-e6b0-4d5f-b8e3-8995847c7605": {
+    "asset": 1593411987082,
+    "meta": 1593411987722,
+    "relativePath": "scripts/GameLoader.ts"
+  },
+  "e815b840-01c3-4a80-a495-103305c9f434": {
+    "asset": 1593413453776,
+    "meta": 1593416254239,
+    "relativePath": "resources/job/书记.png"
+  },
+  "18efa833-5197-4afd-9ccc-5d861e45395e": {
+    "asset": 1593413453735,
+    "meta": 1593416254245,
+    "relativePath": "resources/job/伐木工人.png"
+  },
+  "e4bbcd9c-c7bb-49e3-9fba-18851dda86f7": {
+    "asset": 1593413453101,
+    "meta": 1593416254276,
+    "relativePath": "resources/job/佛教徒.png"
+  },
+  "1bdde197-dfd6-4541-a5d5-9c7670430813": {
+    "asset": 1593413453122,
+    "meta": 1593416254277,
+    "relativePath": "resources/job/作词家.png"
+  },
+  "86751c28-e174-4eb8-b23a-2a9ccd8cb795": {
+    "asset": 1593413453000,
+    "meta": 1593416254311,
+    "relativePath": "resources/job/佩奇.png"
+  },
+  "e34e78ce-0649-4e2f-960d-1484a02334da": {
+    "asset": 1593413452975,
+    "meta": 1593416254312,
+    "relativePath": "resources/job/侦探.png"
+  },
+  "d3f15f5b-d40e-4290-9ac5-94434e846c1a": {
+    "asset": 1593413452935,
+    "meta": 1593416254345,
+    "relativePath": "resources/job/保安人员.png"
+  },
+  "9a6deeff-ee7d-4752-8aca-faa3d7969990": {
+    "asset": 1593413453458,
+    "meta": 1593416254346,
+    "relativePath": "resources/job/修女.png"
+  },
+  "55c28477-11b1-4ba6-bf04-1b3cc87dbfa6": {
+    "asset": 1593413453228,
+    "meta": 1593416254380,
+    "relativePath": "resources/job/健身教练.png"
+  },
+  "4de89f32-b7e5-458a-857a-b70ccccc12bf": {
+    "asset": 1593413453385,
+    "meta": 1593416254383,
+    "relativePath": "resources/job/兽医.png"
+  },
+  "90ec7775-1cfb-497b-a7ab-d9855a082307": {
+    "asset": 1593413453148,
+    "meta": 1593416254419,
+    "relativePath": "resources/job/军人.png"
+  },
+  "b3a73563-2b63-466c-a207-31406b37626d": {
+    "asset": 1593413453372,
+    "meta": 1593416254420,
+    "relativePath": "resources/job/农夫.png"
+  },
+  "9b48240f-cfc1-4fb1-951b-976eb8377459": {
+    "asset": 1593413453472,
+    "meta": 1593416254453,
+    "relativePath": "resources/job/南瓜人.png"
+  },
+  "94ba8cd4-a3d8-4875-864e-d4825b88a041": {
+    "asset": 1593413453691,
+    "meta": 1593416254454,
+    "relativePath": "resources/job/医生.png"
+  },
+  "398b314b-dd41-46bd-b4e2-046c65b26077": {
+    "asset": 1593413453531,
+    "meta": 1593416254484,
+    "relativePath": "resources/job/卡车司机.png"
+  },
+  "f7f6164b-9a1c-4660-a147-24545c0c3d58": {
+    "asset": 1593413453196,
+    "meta": 1593416254485,
+    "relativePath": "resources/job/卢梭.png"
+  },
+  "4c1a1476-7a58-466c-8fdb-b0ff58156c18": {
+    "asset": 1593413453622,
+    "meta": 1593416254515,
+    "relativePath": "resources/job/古典音乐学家.png"
+  },
+  "93838562-d067-492d-80a5-e82bb31aea17": {
+    "asset": 1593413453014,
+    "meta": 1593416254516,
+    "relativePath": "resources/job/厨师.png"
+  },
+  "97bd8124-f960-42d8-9ca0-577a1b663459": {
+    "asset": 1593413453677,
+    "meta": 1593416254545,
+    "relativePath": "resources/job/司机.png"
+  },
+  "64248c1d-8c91-4ce7-ac2e-9abebd66fe04": {
+    "asset": 1593413453629,
+    "meta": 1593416254546,
+    "relativePath": "resources/job/古髅头.png"
+  },
+  "4fe45e79-5d7e-4394-9409-c8908e04e614": {
+    "asset": 1593413453087,
+    "meta": 1593416254580,
+    "relativePath": "resources/job/吸血鬼.png"
+  },
+  "5ebca216-1c21-460c-ba7e-bacd3f677d57": {
+    "asset": 1593413453493,
+    "meta": 1593416254581,
+    "relativePath": "resources/job/哑剧演员.png"
+  },
+  "4a31664a-18ff-4e13-ae0a-30a49d831252": {
+    "asset": 1593413453648,
+    "meta": 1593416254611,
+    "relativePath": "resources/job/园丁.png"
+  },
+  "61965a50-16ed-4773-a4c1-0470a6c237e3": {
+    "asset": 1593413453551,
+    "meta": 1593416254612,
+    "relativePath": "resources/job/图书馆老师.png"
+  },
+  "e21158dd-7211-44f2-ab83-1087ec50de7d": {
+    "asset": 1593413453128,
+    "meta": 1593416254640,
+    "relativePath": "resources/job/天主教徒.png"
+  },
+  "f9fe5323-7350-46e0-87de-e1db58d1de3c": {
+    "asset": 1593413453155,
+    "meta": 1593416254642,
+    "relativePath": "resources/job/太空人.png"
+  },
+  "a75c9e6e-effe-4446-b1dd-c0e311a9a30e": {
+    "asset": 1593413453235,
+    "meta": 1593416254672,
+    "relativePath": "resources/job/太空员.png"
+  },
+  "6908996e-3c0a-4a26-b6f4-bbb93d3ae5c7": {
+    "asset": 1593413453315,
+    "meta": 1593416254674,
+    "relativePath": "resources/job/女仆.png"
+  },
+  "3aa64bd8-db9c-4eeb-b39f-3d37a533a231": {
+    "asset": 1593413453257,
+    "meta": 1593416254705,
+    "relativePath": "resources/job/女佣.png"
+  },
+  "4d88012e-dc29-4c0c-b088-af9cb7bf2148": {
+    "asset": 1593413453565,
+    "meta": 1593416254707,
+    "relativePath": "resources/job/女医生.png"
+  },
+  "9f0463a5-43b5-42b9-9a5b-befeabc6419c": {
+    "asset": 1593413453411,
+    "meta": 1593416254735,
+    "relativePath": "resources/job/女鬼.png"
+  },
+  "f85f0ae9-12ae-4aba-b58d-7179612b9689": {
+    "asset": 1593413453360,
+    "meta": 1593416254736,
+    "relativePath": "resources/job/孔子.png"
+  },
+  "2edefb73-cdf4-4513-a133-4da5b251b176": {
+    "asset": 1593413453353,
+    "meta": 1593416254765,
+    "relativePath": "resources/job/导演.png"
+  },
+  "ddc9d9ff-f2ef-409e-988c-53e76577dfbe": {
+    "asset": 1593413453134,
+    "meta": 1593416254767,
+    "relativePath": "resources/job/导游.png"
+  },
+  "d8ace88d-68e2-4c6d-91c4-fb29a6967304": {
+    "asset": 1593413453617,
+    "meta": 1593416254795,
+    "relativePath": "resources/job/导演助理.png"
+  },
+  "541b7c42-b964-46c7-8716-d8adeb9ad0e8": {
+    "asset": 1593413453436,
+    "meta": 1593416254796,
+    "relativePath": "resources/job/小丑.png"
+  },
+  "61b6be4e-ca15-48db-8a9e-989749e6ad97": {
+    "asset": 1593413453418,
+    "meta": 1593416254827,
+    "relativePath": "resources/job/小提琴家.png"
+  },
+  "948dc967-a7d5-4e61-88ac-7c26b7650c67": {
+    "asset": 1593413453162,
+    "meta": 1593416254828,
+    "relativePath": "resources/job/小红帽.png"
+  },
+  "d9ca83b5-c114-4a3a-b5eb-fe5ac7a00f16": {
+    "asset": 1593413452942,
+    "meta": 1593416254861,
+    "relativePath": "resources/job/工程师.png"
+  },
+  "9636fe50-683a-4a13-93f9-6240c7dccb56": {
+    "asset": 1593413453094,
+    "meta": 1593416254863,
+    "relativePath": "resources/job/屠夫.png"
+  },
+  "8740e604-ff02-41c6-8f13-10d3ec1d3953": {
+    "asset": 1593413453062,
+    "meta": 1593416254899,
+    "relativePath": "resources/job/巴士司机.png"
+  },
+  "26e7b74f-7a53-492a-a118-86939e7dbbf5": {
+    "asset": 1593413453393,
+    "meta": 1593416254900,
+    "relativePath": "resources/job/巫婆.png"
+  },
+  "38e8a9c9-3537-419f-b0d7-6ed57db69133": {
+    "asset": 1593413453538,
+    "meta": 1593416254933,
+    "relativePath": "resources/job/店员.png"
+  },
+  "00298a3a-48f0-4691-ba28-142014c1be47": {
+    "asset": 1593413453180,
+    "meta": 1593416254935,
+    "relativePath": "resources/job/建筑工人.png"
+  },
+  "405f4c66-8abe-4485-8ab5-9925520b333c": {
+    "asset": 1593413453216,
+    "meta": 1593416254972,
+    "relativePath": "resources/job/建筑师.png"
+  },
+  "eab6533c-3d25-4653-b3c0-0afe82926fc9": {
+    "asset": 1593413453720,
+    "meta": 1593416254974,
+    "relativePath": "resources/job/德士司机.png"
+  },
+  "1c1f6935-1f8b-4b8e-97ad-6bde1460a95e": {
+    "asset": 1593413453513,
+    "meta": 1593416255012,
+    "relativePath": "resources/job/怪兽.png"
+  },
+  "7da920bc-c267-4e39-8104-6168dd5bcd3e": {
+    "asset": 1593413453321,
+    "meta": 1593416255014,
+    "relativePath": "resources/job/恶魔.png"
+  },
+  "e6a77cb5-c6f4-41a5-a081-728b0fb40816": {
+    "asset": 1593413453007,
+    "meta": 1593416255044,
+    "relativePath": "resources/job/情报人员.png"
+  },
+  "7138273a-cb66-4a74-853a-947691ec6e29": {
+    "asset": 1593413452969,
+    "meta": 1593416255045,
+    "relativePath": "resources/job/护士.png"
+  },
+  "18bf743d-77bf-40b4-918b-8f2e1809d39f": {
+    "asset": 1593413453500,
+    "meta": 1593416255075,
+    "relativePath": "resources/job/指挥家.png"
+  },
+  "c4db6c5e-8cef-4a30-bece-724558490f68": {
+    "asset": 1593413453525,
+    "meta": 1593416255077,
+    "relativePath": "resources/job/探险家.png"
+  },
+  "49b0be88-1f06-4b37-adb6-fb1ca3a0ba23": {
+    "asset": 1593413453755,
+    "meta": 1593416255114,
+    "relativePath": "resources/job/搬运工人.png"
+  },
+  "823bb71f-baca-46ea-9635-505b5f2f8773": {
+    "asset": 1593413453610,
+    "meta": 1593416255115,
+    "relativePath": "resources/job/接待员.png"
+  },
+  "8f15d895-3eaa-4d95-86ea-267b5fdc681a": {
+    "asset": 1593413453424,
+    "meta": 1593416255146,
+    "relativePath": "resources/job/有钱人.png"
+  },
+  "88e7677d-2ff6-434f-8f25-ce787cdb8d14": {
+    "asset": 1593413453333,
+    "meta": 1593416255147,
+    "relativePath": "resources/job/摄影师.png"
+  },
+  "417a92c3-94fb-4ecb-9163-2b5a833f0b54": {
+    "asset": 1593413453116,
+    "meta": 1593416255177,
+    "relativePath": "resources/job/服务员.png"
+  },
+  "21b3091f-cfe8-4bf6-ba72-e999840f4eb9": {
+    "asset": 1593413453769,
+    "meta": 1593416255178,
+    "relativePath": "resources/job/木乃伊.png"
+  },
+  "21dc3028-8396-410c-b008-9852aa5afb64": {
+    "asset": 1593413453347,
+    "meta": 1593416255206,
+    "relativePath": "resources/job/未诞生.png"
+  },
+  "882e7efa-5ab3-463b-8438-5088113070e5": {
+    "asset": 1593413453379,
+    "meta": 1593416255206,
+    "relativePath": "resources/job/木匠.png"
+  },
+  "4e152a72-d8a2-4503-a9ef-5975111316f9": {
+    "asset": 1593413453210,
+    "meta": 1593416255236,
+    "relativePath": "resources/job/机械员.png"
+  },
+  "b2009815-d046-4911-98a1-e9c9a59246a7": {
+    "asset": 1593413453592,
+    "meta": 1593416255237,
+    "relativePath": "resources/job/机长.png"
+  },
+  "02926dbd-9af4-4a41-88a3-138d2b0a14a8": {
+    "asset": 1593413453706,
+    "meta": 1593416255265,
+    "relativePath": "resources/job/校长.png"
+  },
+  "999e0951-bb76-42ea-9aee-603804697bba": {
+    "asset": 1593413453790,
+    "meta": 1593416255266,
+    "relativePath": "resources/job/模特.png"
+  },
+  "6dad4fd9-9b9e-4173-9c21-545f4af64bcc": {
+    "asset": 1593413453271,
+    "meta": 1593416255293,
+    "relativePath": "resources/job/死神.png"
+  },
+  "1031634b-4d98-43ac-9112-c52322fd8a6a": {
+    "asset": 1593413453598,
+    "meta": 1593416255294,
+    "relativePath": "resources/job/死神随从.png"
+  },
+  "ff558ca4-fcdb-41f9-86e4-d4433679bffa": {
+    "asset": 1593413453308,
+    "meta": 1593416255323,
+    "relativePath": "resources/job/水电工人.png"
+  },
+  "0424e311-d0fc-48a6-ba0c-3c147de1316d": {
+    "asset": 1593413453399,
+    "meta": 1593416255324,
+    "relativePath": "resources/job/水果摊贩.png"
+  },
+  "86d93ee9-d511-4237-944a-d8ffb97139d2": {
+    "asset": 1593413453742,
+    "meta": 1593416255351,
+    "relativePath": "resources/job/法官.png"
+  },
+  "bdf0d898-eb9f-4e2a-b54d-bd4e91c64dd6": {
+    "asset": 1593413453222,
+    "meta": 1593416255352,
+    "relativePath": "resources/job/法师.png"
+  },
+  "b7ddae66-9fa9-47a8-a51b-fe02bde3aa13": {
+    "asset": 1593413453445,
+    "meta": 1593416255383,
+    "relativePath": "resources/job/洁道夫.png"
+  },
+  "ae67f8d3-ee2a-4662-8826-ea8ac95c7c55": {
+    "asset": 1593413453168,
+    "meta": 1593416255383,
+    "relativePath": "resources/job/海盗.png"
+  },
+  "83ae8bd7-567c-4389-a302-95ae4256ac58": {
+    "asset": 1593413453055,
+    "meta": 1593416255413,
+    "relativePath": "resources/job/演说家.png"
+  },
+  "50875b3f-7b42-4e5b-9ca5-be310d3e736e": {
+    "asset": 1593413453048,
+    "meta": 1593416255414,
+    "relativePath": "resources/job/消防员.png"
+  },
+  "05489882-6055-4d3c-b6a1-ba886aac3387": {
+    "asset": 1593413453041,
+    "meta": 1593416255444,
+    "relativePath": "resources/job/烘焙师.png"
+  },
+  "bb5d9669-56d0-456d-bf7b-28dad1d6081f": {
+    "asset": 1593413453203,
+    "meta": 1593416255445,
+    "relativePath": "resources/job/潜水员.png"
+  },
+  "14801319-70f6-4aa5-a4f4-cc7d673395a9": {
+    "asset": 1593413452922,
+    "meta": 1593416255474,
+    "relativePath": "resources/job/焊接工.png"
+  },
+  "fb11139c-dcfc-43ee-bc99-29f7e32ab064": {
+    "asset": 1593413453142,
+    "meta": 1593416255475,
+    "relativePath": "resources/job/爱丽丝.png"
+  },
+  "06ccc2fa-ea36-4860-93af-f1bcc05c7c20": {
+    "asset": 1593413452990,
+    "meta": 1593416255507,
+    "relativePath": "resources/job/狼人.png"
+  },
+  "cf309a62-bfe2-4be2-8697-d13ccc3da319": {
+    "asset": 1593413453712,
+    "meta": 1593416255508,
+    "relativePath": "resources/job/物理学家.png"
+  },
+  "00c5fe1b-1993-41dc-b6e9-92ccbcce04aa": {
+    "asset": 1593413453341,
+    "meta": 1593416255538,
+    "relativePath": "resources/job/猪八戒.png"
+  },
+  "9823337b-6ebd-4c51-8e74-5ddbc23c2f96": {
+    "asset": 1593413453683,
+    "meta": 1593416255540,
+    "relativePath": "resources/job/理发师.png"
+  },
+  "7ffa185c-724f-47e6-9ec4-c8db465397be": {
+    "asset": 1593413453174,
+    "meta": 1593416255575,
+    "relativePath": "resources/job/电工.png"
+  },
+  "ebeefb8d-3b6d-49ff-bacb-45d3580283d3": {
+    "asset": 1593413452981,
+    "meta": 1593416255576,
+    "relativePath": "resources/job/画家.png"
+  },
+  "a675773f-ce03-48c1-9eca-ffd3874af82a": {
+    "asset": 1593413453699,
+    "meta": 1593416255609,
+    "relativePath": "resources/job/白雪公主.png"
+  },
+  "74b46989-8a92-48dc-a722-4e42af69ee40": {
+    "asset": 1593413453028,
+    "meta": 1593416255610,
+    "relativePath": "resources/job/画画天才.png"
+  },
+  "0332304b-5ad3-4590-b0b2-5049f52df56f": {
+    "asset": 1593413453670,
+    "meta": 1593416255645,
+    "relativePath": "resources/job/白马王子.png"
+  },
+  "19c9503c-387e-4aed-9def-90100dd01284": {
+    "asset": 1593413453430,
+    "meta": 1593416255646,
+    "relativePath": "resources/job/睡美人.png"
+  },
+  "27f2095a-ff16-42fd-8439-2787cdd5e74f": {
+    "asset": 1593413453748,
+    "meta": 1593416255677,
+    "relativePath": "resources/job/矿工.png"
+  },
+  "48349b15-6eb8-4744-91d5-c84552b0296e": {
+    "asset": 1593413453405,
+    "meta": 1593416255678,
+    "relativePath": "resources/job/神婆.png"
+  },
+  "dc4cf5bb-0b55-4cc1-bbd5-eb6074462298": {
+    "asset": 1593413453296,
+    "meta": 1593416255713,
+    "relativePath": "resources/job/科学家.png"
+  },
+  "eea5bacc-7332-453b-876b-815dfe3a7679": {
+    "asset": 1593413453264,
+    "meta": 1593416255714,
+    "relativePath": "resources/job/神父.png"
+  },
+  "181b29bf-1c05-4a2a-8eea-d1c4849211dd": {
+    "asset": 1593413453585,
+    "meta": 1593416255746,
+    "relativePath": "resources/job/程序员.png"
+  },
+  "de3bd12d-2d0b-49d9-b7bb-a108b2a30539": {
+    "asset": 1593413453579,
+    "meta": 1593416255747,
+    "relativePath": "resources/job/空中小姐.png"
+  },
+  "0ce9d45b-7dc4-472b-932a-b20649ba5215": {
+    "asset": 1593413453250,
+    "meta": 1593416255777,
+    "relativePath": "resources/job/童话女神.png"
+  },
+  "43694d4d-e011-45a2-a34b-b3a419a77683": {
+    "asset": 1593413453243,
+    "meta": 1593416255778,
+    "relativePath": "resources/job/篮球员.png"
+  },
+  "01c76429-d715-4b69-96d8-d10187e2a3c7": {
+    "asset": 1593413453072,
+    "meta": 1593416255809,
+    "relativePath": "resources/job/编曲家.png"
+  },
+  "7a5713af-4201-4c9b-8d76-7feb6be164ca": {
+    "asset": 1593413453663,
+    "meta": 1593416255811,
+    "relativePath": "resources/job/绅士.png"
+  },
+  "41a79569-c9bb-4693-97c0-5b20adbd9984": {
+    "asset": 1593413453479,
+    "meta": 1593416255843,
+    "relativePath": "resources/job/考古学家.png"
+  },
+  "2bb8a7c7-6075-4bf5-9481-d1dcbf3c6b37": {
+    "asset": 1593413453656,
+    "meta": 1593416255844,
+    "relativePath": "resources/job/老师.png"
+  },
+  "81a71f73-67f6-43dc-b0cb-0facdb68b0d2": {
+    "asset": 1593413453327,
+    "meta": 1593416255875,
+    "relativePath": "resources/job/航空家.png"
+  },
+  "dfc311da-c0e9-41c9-a59c-4f683fea54a2": {
+    "asset": 1593413452957,
+    "meta": 1593416255876,
+    "relativePath": "resources/job/耶稣.png"
+  },
+  "3e64f4d2-afcc-4521-aa95-d1587c1eeb97": {
+    "asset": 1593413453464,
+    "meta": 1593416255909,
+    "relativePath": "resources/job/艺术家.png"
+  },
+  "617988e9-0cbc-41a9-978b-1f49f5f6b6db": {
+    "asset": 1593413453080,
+    "meta": 1593416255910,
+    "relativePath": "resources/job/苏格拉底.png"
+  },
+  "bad82c84-cbd3-4ee3-86e9-3a5a9813837c": {
+    "asset": 1593413452929,
+    "meta": 1593416255943,
+    "relativePath": "resources/job/蓝精灵.png"
+  },
+  "5554dcfa-bdb7-4532-bbba-2ca4679d54b9": {
+    "asset": 1593413453021,
+    "meta": 1593416255943,
+    "relativePath": "resources/job/莫扎特.png"
+  },
+  "347b9787-36a7-4b81-b516-37d97d37720c": {
+    "asset": 1593413452915,
+    "meta": 1593416255975,
+    "relativePath": "resources/job/蛋糕师傅.png"
+  },
+  "087a9fff-02c5-4f0f-a06b-b08905e627b3": {
+    "asset": 1593413453451,
+    "meta": 1593416255976,
+    "relativePath": "resources/job/街头艺人.png"
+  },
+  "fa7ba3b3-18b5-4aad-9b8e-7fcd29c92c07": {
+    "asset": 1593413453366,
+    "meta": 1593416256009,
+    "relativePath": "resources/job/裁缝师.png"
+  },
+  "19bf73bd-9b86-4b21-a3b5-44946aab4fb3": {
+    "asset": 1593413453302,
+    "meta": 1593416256010,
+    "relativePath": "resources/job/警察.png"
+  },
+  "e1c6263b-8dd9-4846-aec6-f174d0ecf3c6": {
+    "asset": 1593413453108,
+    "meta": 1593416256041,
+    "relativePath": "resources/job/足球员.png"
+  },
+  "73497e83-457e-4f56-8849-ebbeef2640e4": {
+    "asset": 1593413453783,
+    "meta": 1593416256042,
+    "relativePath": "resources/job/记者.png"
+  },
+  "7ef879f3-c417-4a9c-b4c2-f27f784e681a": {
+    "asset": 1593413453642,
+    "meta": 1593416256072,
+    "relativePath": "resources/job/跆拳老师.png"
+  },
+  "00c8e645-5740-4c0c-ba55-2637c5e55aef": {
+    "asset": 1593413453604,
+    "meta": 1593416256073,
+    "relativePath": "resources/job/辛德瑞拉.png"
+  },
+  "c242c492-5679-4211-b934-5dbdaf360e4b": {
+    "asset": 1593413453635,
+    "meta": 1593416256104,
+    "relativePath": "resources/job/道士.png"
+  },
+  "0c26a487-55b3-4a7e-b4d9-eee8a2a2811c": {
+    "asset": 1593413453558,
+    "meta": 1593416256105,
+    "relativePath": "resources/job/邮差.png"
+  },
+  "f769ead1-bc50-4b0f-a790-c33cbb713904": {
+    "asset": 1593413453277,
+    "meta": 1593416256136,
+    "relativePath": "resources/job/酒店服务员.png"
+  },
+  "f7a3808a-303c-49b9-901b-025c1239a69b": {
+    "asset": 1593413453728,
+    "meta": 1593416256137,
+    "relativePath": "resources/job/野兽.png"
+  },
+  "4e33d17d-984f-4352-8418-a0075f7c247b": {
+    "asset": 1593413453290,
+    "meta": 1593416256168,
+    "relativePath": "resources/job/野狼.png"
+  },
+  "9f504ef3-b1ee-4692-a620-9ef48718c6a6": {
+    "asset": 1593413452906,
+    "meta": 1593416256169,
+    "relativePath": "resources/job/钢琴家.png"
+  },
+  "2d92d39a-b039-482d-8b23-518bbd2b6f6b": {
+    "asset": 1593413452949,
+    "meta": 1593416256200,
+    "relativePath": "resources/job/阿拉丁.png"
+  },
+  "5bbbc482-f234-440b-8725-69af3da66906": {
+    "asset": 1593413453518,
+    "meta": 1593416256201,
+    "relativePath": "resources/job/销售员.png"
+  },
+  "dfbeb5fe-f46e-4010-9634-4757591ca748": {
+    "asset": 1593413453572,
+    "meta": 1593416256231,
+    "relativePath": "resources/job/阿里巴巴.png"
+  },
+  "c2385bcf-c5b4-4251-a326-ab76a0a29cba": {
+    "asset": 1593413453283,
+    "meta": 1593416256232,
+    "relativePath": "resources/job/阿拉丁公主.png"
+  },
+  "0d9d6c5f-6c38-4482-a5a2-048f1eaaa1e3": {
+    "asset": 1593413453544,
+    "meta": 1593416256262,
+    "relativePath": "resources/job/隐形人.png"
+  },
+  "f6e16ef8-68cc-4aca-ba2e-f53133e4c9d2": {
+    "asset": 1593413453506,
+    "meta": 1593416256264,
+    "relativePath": "resources/job/音乐大师.png"
+  },
+  "d003b557-9d2b-48aa-8df6-ed2e8b275c17": {
+    "asset": 1593413453187,
+    "meta": 1593416256297,
+    "relativePath": "resources/job/音乐才子.png"
+  },
+  "3c722b0b-ce0d-4456-8e40-f9170df7cb16": {
+    "asset": 1593413453034,
+    "meta": 1593416256298,
+    "relativePath": "resources/job/音乐老师.png"
+  },
+  "08f2ce2c-02a0-4503-b383-5b7c092595b0": {
+    "asset": 1593413453761,
+    "meta": 1593416256327,
+    "relativePath": "resources/job/魔术师.png"
+  },
+  "f32a511e-9943-4e93-b6a0-3f9e8e7b07ad": {
+    "asset": 1593413452963,
+    "meta": 1593416256328,
+    "relativePath": "resources/job/马戏团员.png"
+  },
+  "4a630658-76b6-41e8-9f69-d30fc4b4ae35": {
+    "asset": 1593413453486,
+    "meta": 1593416256358,
+    "relativePath": "resources/job/鱼贩.png"
+  },
+  "63e6952d-5b16-4bf1-b17b-102de5c21328": {
+    "asset": 1593413453884,
+    "meta": 1593416256359,
+    "relativePath": "resources/race/中国人.png"
+  },
+  "8c189b1f-940d-4832-aaaf-9fe68a99a54b": {
+    "asset": 1593413453841,
+    "meta": 1593416256391,
+    "relativePath": "resources/race/俄罗斯人.png"
+  },
+  "ba7e524a-ddea-4cb8-8e83-8f2568890a93": {
+    "asset": 1593413453872,
+    "meta": 1593416256392,
+    "relativePath": "resources/race/以色列人.png"
+  },
+  "b255584d-e3eb-4e51-8f74-9009d3b655a3": {
+    "asset": 1593413453898,
+    "meta": 1593416256421,
+    "relativePath": "resources/race/印度人.png"
+  },
+  "e90dae9e-2470-475b-af07-665da9899cf2": {
+    "asset": 1593413453815,
+    "meta": 1593416256422,
+    "relativePath": "resources/race/土耳其人.png"
+  },
+  "d8688f98-8ba3-42d6-8a64-c618d9215b94": {
+    "asset": 1593413453878,
+    "meta": 1593416256455,
+    "relativePath": "resources/race/德国人.png"
+  },
+  "b9137f24-f792-4484-ac32-c6e879bf0150": {
+    "asset": 1593413453803,
+    "meta": 1593416256456,
+    "relativePath": "resources/race/希腊人.png"
+  },
+  "8f00a065-5eb3-40bf-8b46-4f158745540f": {
+    "asset": 1593413453809,
+    "meta": 1593416256487,
+    "relativePath": "resources/race/意大利人.png"
+  },
+  "ceb554f7-ccc2-4312-8c45-2d0f79e13dd8": {
+    "asset": 1593413453821,
+    "meta": 1593416256488,
+    "relativePath": "resources/race/日本人.png"
+  },
+  "e323c402-e0c8-4111-b97e-bdca57670edc": {
+    "asset": 1593413453865,
+    "meta": 1593416256518,
+    "relativePath": "resources/race/法国人.png"
+  },
+  "ace62147-cf11-4744-a570-2399514e0369": {
+    "asset": 1593413453853,
+    "meta": 1593416256519,
+    "relativePath": "resources/race/波兰人.png"
+  },
+  "baf3f1c1-f680-47b5-99a8-2efc52b4ef3e": {
+    "asset": 1593413453847,
+    "meta": 1593416256551,
+    "relativePath": "resources/race/英国人.png"
+  },
+  "1c1db337-a3e7-4c01-88e6-8d4763fb9977": {
+    "asset": 1593413453892,
+    "meta": 1593416256551,
+    "relativePath": "resources/race/瑞士人.png"
+  },
+  "44af5158-74fe-494c-bfb9-fd13b87c613a": {
+    "asset": 1593413453827,
+    "meta": 1593416256583,
+    "relativePath": "resources/race/荷兰人.png"
+  },
+  "00f41703-7958-4f09-bc77-fe3d9dd05f89": {
+    "asset": 1593413453859,
+    "meta": 1593416256584,
+    "relativePath": "resources/race/葡萄牙人.png"
+  },
+  "0e62b8c5-2bbd-4591-b371-a55b552f51f3": {
+    "asset": 1593413453833,
+    "meta": 1593416256614,
+    "relativePath": "resources/race/阿拉伯人.png"
+  },
+  "285b3c34-17d4-497b-940b-02ceb2a838ec": {
+    "asset": 1593413453797,
+    "meta": 1593416256615,
+    "relativePath": "resources/race/西班牙人.png"
+  },
+  "295f6a01-0865-497d-b3b4-8c4ad938be77": {
+    "asset": 1593413452769,
+    "meta": 1593416256635,
+    "relativePath": "textures/ball.png"
+  },
+  "4f5f25ac-2d2c-4f2c-a5d6-c676e7dec3d0": {
+    "asset": 1593413452890,
+    "meta": 1593416256637,
+    "relativePath": "textures/Box.png"
+  },
+  "8265d477-b654-4438-ba02-c12d8176b0fa": {
+    "asset": 1593413452897,
+    "meta": 1593416256654,
+    "relativePath": "textures/crystal-ball.png"
+  },
+  "fa8fdcdc-726b-4cab-8e44-17727ef69176": {
+    "asset": 1593413452788,
+    "meta": 1593416256656,
+    "relativePath": "textures/btn.png"
+  },
+  "3209f476-3faf-4f8c-a85e-0d4f05918cd7": {
+    "asset": 1593413452817,
+    "meta": 1593416256666,
+    "relativePath": "textures/female.png"
+  },
+  "69c60131-c5b3-4331-a638-0c7b44e0ce5b": {
+    "asset": 1593413452882,
+    "meta": 1593416256678,
+    "relativePath": "textures/Game Setting_BG2.png"
+  },
+  "6aa0aa6a-ebee-4155-a088-a687a6aadec4": {
+    "asset": 1593413452810,
+    "meta": 1593416256688,
+    "relativePath": "textures/HelloWorld.png"
+  },
+  "1cb6f48d-bf6d-447a-b5cd-b32fa9c7b6a8": {
+    "asset": 1593413452804,
+    "meta": 1593416256707,
+    "relativePath": "textures/male.png"
+  },
+  "34294af5-61ab-404d-b986-8b18e844d371": {
+    "asset": 1593413452844,
+    "meta": 1593416256714,
+    "relativePath": "textures/logo2.png"
+  },
+  "980da122-7e45-479a-9294-fc001936e550": {
+    "asset": 1593413452860,
+    "meta": 1593416256721,
+    "relativePath": "textures/Play Scene_Home.png"
+  },
+  "d725a0ef-5500-46a9-b1c7-98df3fe982c8": {
+    "asset": 1593413452796,
+    "meta": 1593416256727,
+    "relativePath": "textures/Play Scene_Retry.png"
+  },
+  "68fa208e-12bd-4a75-a3ae-9bf96dcace3e": {
+    "asset": 1593413452851,
+    "meta": 1593416256736,
+    "relativePath": "textures/Play Scene_Top bar.png"
+  },
+  "428bdca8-7ace-48af-b86c-d1f5032a3bfc": {
+    "asset": 1593413452867,
+    "meta": 1593416256750,
+    "relativePath": "textures/roundSquare.png"
+  },
+  "6caa78f5-15f3-47fc-848a-8945f296ebd1": {
+    "asset": 1593413452873,
+    "meta": 1593416256752,
+    "relativePath": "textures/PlayBtn.png"
+  },
+  "56d98979-e7f8-4769-8f88-553068d0f12f": {
+    "asset": 1593413452760,
+    "meta": 1593416256769,
+    "relativePath": "textures/Select Level_Right.png"
+  },
+  "a8027877-d8d6-4645-97a0-52d4a0123dba": {
+    "asset": 1593413452829,
+    "meta": 1593416256776,
+    "relativePath": "textures/singleColor.png"
+  },
+  "3b7d73fb-41f4-491e-84db-6c41f5f4477f": {
+    "asset": 1593413452823,
+    "meta": 1593416256801,
+    "relativePath": "textures/StartBtn.png"
+  },
+  "91dbf85b-b07c-4835-939e-6aa4319f9945": {
+    "asset": 1593413452778,
+    "meta": 1593416256820,
+    "relativePath": "textures/Select level_BG.png"
+  },
+  "80a3e1e5-1901-4231-b22c-f2d8890b0046": {
+    "asset": 1593417785070,
+    "meta": 1593417786699,
+    "relativePath": "scripts/PrivacySetup.ts"
+  },
+  "365ba3f5-3483-407f-98c2-03cf6a354cbf": {
+    "asset": 1593485778167,
+    "meta": 1593485782674,
+    "relativePath": "scripts/Appegg.ts"
+  }
+}

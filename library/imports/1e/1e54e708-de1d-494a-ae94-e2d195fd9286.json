@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Play Scene_Retry",
+    "texture": "d725a0ef-5500-46a9-b1c7-98df3fe982c8",
+    "atlas": "",
+    "rect": [
+      52,
+      38,
+      171,
+      171
+    ],
+    "offset": [
+      -6.5,
+      -0.5
+    ],
+    "originalSize": [
+      288,
+      246
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

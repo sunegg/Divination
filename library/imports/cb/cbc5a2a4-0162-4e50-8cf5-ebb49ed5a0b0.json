@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "考古学家",
+    "texture": "41a79569-c9bb-4693-97c0-5b20adbd9984",
+    "atlas": "",
+    "rect": [
+      82,
+      17,
+      136,
+      267
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "搬运工人",
+    "texture": "49b0be88-1f06-4b37-adb6-fb1ca3a0ba23",
+    "atlas": "",
+    "rect": [
+      46,
+      15,
+      208,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "演说家",
+    "texture": "83ae8bd7-567c-4389-a302-95ae4256ac58",
+    "atlas": "",
+    "rect": [
+      83,
+      22,
+      135,
+      257
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

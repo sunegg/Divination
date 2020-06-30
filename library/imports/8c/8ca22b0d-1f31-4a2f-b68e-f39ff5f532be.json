@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "摄影师",
+    "texture": "88e7677d-2ff6-434f-8f25-ce787cdb8d14",
+    "atlas": "",
+    "rect": [
+      33,
+      15,
+      234,
+      270
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

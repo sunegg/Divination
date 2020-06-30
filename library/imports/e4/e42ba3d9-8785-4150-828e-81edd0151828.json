@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "中国人",
+    "texture": "63e6952d-5b16-4bf1-b17b-102de5c21328",
+    "atlas": "",
+    "rect": [
+      62,
+      41,
+      192,
+      218
+    ],
+    "offset": [
+      8,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

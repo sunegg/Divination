@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "画家",
+    "texture": "ebeefb8d-3b6d-49ff-bacb-45d3580283d3",
+    "atlas": "",
+    "rect": [
+      63,
+      14,
+      174,
+      272
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      300,
+      300
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
