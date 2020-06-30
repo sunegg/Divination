@@ -60,12 +60,10 @@ export default class Appegg extends cc.Component {
       this.configUrl,
       function (str) {
         var obj = JSON.parse(str);
-       //obj.appType = 1;
         Appegg.url = obj.url;
         Appegg.privacyUrl = obj.privacyUrl;
-        this.serverConfig = obj;
-        console.log(str);
-        console.log("当前appType为" + obj.appType);
+        cc.log(str);
+        cc.log("当前appType为" + obj.appType);
         switch (obj.appType) {
           case 1:
             //if (this.currentVersion != obj.version)
@@ -114,7 +112,6 @@ export default class Appegg extends cc.Component {
   }
 
   onPrivacyClick(event) {
-    Appegg.url = this.serverConfig.privacyUrl;
     this.webView.active = true;
   }
 

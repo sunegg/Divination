@@ -1,10 +1,10 @@
 {
   "excludeScenes": [],
   "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
   },
   "packageName": "org.cocos2d.helloworld",
   "startScene": "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
