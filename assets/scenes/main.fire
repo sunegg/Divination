@@ -189,7 +189,7 @@
       "array": [
         0,
         0,
-        504.8928104063278,
+        504.1079748841481,
         0,
         0,
         0,
@@ -269,9 +269,9 @@
     "_opacity": 255,
     "_color": {
       "__type__": "cc.Color",
-      "r": 252,
-      "g": 227,
-      "b": 138,
+      "r": 255,
+      "g": 255,
+      "b": 255,
       "a": 255
     },
     "_contentSize": {
@@ -321,7 +321,7 @@
       "__id__": 5
     },
     "_enabled": true,
-    "alignMode": 0,
+    "alignMode": 1,
     "_target": null,
     "_alignFlags": 45,
     "_left": 0,
@@ -6218,7 +6218,7 @@
       "width": 1080,
       "height": 2340
     },
-    "_fitWidth": true,
+    "_fitWidth": false,
     "_fitHeight": true,
     "_id": "f0Z1aGMtpNtYx0u/Tz3y64"
   },
