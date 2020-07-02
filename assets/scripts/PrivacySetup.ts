@@ -5,7 +5,7 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
-import Appegg from "./Appegg";
+import GameData from "./GameData";
 
 const {ccclass, property} = cc._decorator;
 
@@ -16,8 +16,12 @@ export default class PrivacySetup extends cc.Component {
     webView: cc.WebView;
         
     onLoad() {
-        cc.log("privacyUrl"+Appegg.privacyUrl);
-        this.webView.url = Appegg.privacyUrl;
+        cc.log("privacyUrl"+this.encode_utf8(GameData.privacyUrl));
+        this.webView.url = this.encode_utf8(GameData.privacyUrl);
+    }
+
+    encode_utf8( s ){
+        return unescape( encodeURIComponent( s ) );
     }
 
 }

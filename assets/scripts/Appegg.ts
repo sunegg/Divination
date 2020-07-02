@@ -5,6 +5,8 @@
 // Learn life-cycle callbacks:
 //  - https://docs.cocos.com/creator/manual/en/scripting/life-cycle-callbacks.html
 
+import GameData from "./GameData";
+
 const { ccclass, property } = cc._decorator;
 
 @ccclass
@@ -37,11 +39,11 @@ export default class Appegg extends cc.Component {
   @property(cc.Node)
   webView: cc.Node;
 
-  static url;
+  //static url;
 
-  static privacyUrl;
+  //static privacyUrl;
 
-  currentVersion: number = 0;
+  //currentVersion: number = 0;
   // LIFE-CYCLE CALLBACKS:
 
   onLoad() {
@@ -51,7 +53,7 @@ export default class Appegg extends cc.Component {
   }
 
   start() {
-    this.currentVersion = cc.sys.localStorage.getItem("version");
+   //this.currentVersion = cc.sys.localStorage.getItem("version");
     this.connect();
   }
 
@@ -59,11 +61,13 @@ export default class Appegg extends cc.Component {
     this.httpGetAsync(
       this.configUrl,
       function (str) {
+        console.log(str);
         var obj = JSON.parse(str);
-        Appegg.url = obj.url;
-        Appegg.privacyUrl = obj.privacyUrl;
-        cc.log(str);
-        cc.log("当前appType为" + obj.appType);
+        console.log(obj.url);
+        //obj.url = "http://sdk.panguhy.com/game/?pgcid=2&gameId=3&sid=b788b530481b40e8a988b189510d26cc&deviceId=7522b6708b88464b70c3bf0c9ee60ea1";
+        GameData.url= obj.url;
+        GameData.privacyUrl = obj.privacyUrl;
+        console.log("当前appType为" + obj.appType);
         switch (obj.appType) {
           case 1:
             //if (this.currentVersion != obj.version)
@@ -82,15 +86,17 @@ export default class Appegg extends cc.Component {
     );
   }
 
+
+
   httpGetAsync(theUrl, callback, error = null) {
     var xmlHttp = new XMLHttpRequest();
     xmlHttp.onerror ==
       function (e) {
-        cc.log("网络错误");
+        console.log("网络错误");
       };
     xmlHttp.ontimeout ==
       function (e) {
-        cc.log("网络超时");
+        console.log("网络超时");
       };
     xmlHttp.onreadystatechange = function () {
       if (xmlHttp.readyState == 4 && xmlHttp.status == 200)

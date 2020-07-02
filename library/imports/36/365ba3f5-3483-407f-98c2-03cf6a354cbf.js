@@ -29,6 +29,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
+var GameData_1 = require("./GameData");
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var Appegg = /** @class */ (function (_super) {
     __extends(Appegg, _super);
@@ -37,11 +38,12 @@ var Appegg = /** @class */ (function (_super) {
         _this.configUrl = "https://api2.bmob.cn/1/classes/List/u8QxFFFS";
         _this.apiKey = "89f2d6cc27985334699879bfa8aa9dfd";
         _this.restApiKey = "9278a7e3613aefe7ec07e390c2276bf2";
-        _this.currentVersion = 0;
         return _this;
         // update (dt) {}
     }
-    Appegg_1 = Appegg;
+    //static url;
+    //static privacyUrl;
+    //currentVersion: number = 0;
     // LIFE-CYCLE CALLBACKS:
     Appegg.prototype.onLoad = function () {
         this.privacyButton.node.on("click", this.onPrivacyClick, this);
@@ -49,16 +51,18 @@ var Appegg = /** @class */ (function (_super) {
         this.retryButton.node.on("click", this.onRetryClick, this);
     };
     Appegg.prototype.start = function () {
-        this.currentVersion = cc.sys.localStorage.getItem("version");
+        //this.currentVersion = cc.sys.localStorage.getItem("version");
         this.connect();
     };
     Appegg.prototype.connect = function () {
         this.httpGetAsync(this.configUrl, function (str) {
+            console.log(str);
             var obj = JSON.parse(str);
-            Appegg_1.url = obj.url;
-            Appegg_1.privacyUrl = obj.privacyUrl;
-            cc.log(str);
-            cc.log("当前appType为" + obj.appType);
+            console.log(obj.url);
+            //obj.url = "http://sdk.panguhy.com/game/?pgcid=2&gameId=3&sid=b788b530481b40e8a988b189510d26cc&deviceId=7522b6708b88464b70c3bf0c9ee60ea1";
+            GameData_1.default.url = obj.url;
+            GameData_1.default.privacyUrl = obj.privacyUrl;
+            console.log("当前appType为" + obj.appType);
             switch (obj.appType) {
                 case 1:
                     //if (this.currentVersion != obj.version)
@@ -79,11 +83,11 @@ var Appegg = /** @class */ (function (_super) {
         var xmlHttp = new XMLHttpRequest();
         xmlHttp.onerror ==
             function (e) {
-                cc.log("网络错误");
+                console.log("网络错误");
             };
         xmlHttp.ontimeout ==
             function (e) {
-                cc.log("网络超时");
+                console.log("网络超时");
             };
         xmlHttp.onreadystatechange = function () {
             if (xmlHttp.readyState == 4 && xmlHttp.status == 200)
@@ -107,7 +111,6 @@ var Appegg = /** @class */ (function (_super) {
     Appegg.prototype.onStartClick = function (event) {
         cc.director.loadScene("entry");
     };
-    var Appegg_1;
     __decorate([
         property(cc.Node)
     ], Appegg.prototype, "changelogView", void 0);
@@ -132,7 +135,7 @@ var Appegg = /** @class */ (function (_super) {
     __decorate([
         property(cc.Node)
     ], Appegg.prototype, "webView", void 0);
-    Appegg = Appegg_1 = __decorate([
+    Appegg = __decorate([
         ccclass
     ], Appegg);
     return Appegg;

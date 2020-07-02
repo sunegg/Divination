@@ -28,6 +28,8 @@ export default class GameData {
     static currentRace: number;
     
     static currentJob: number;
+
+    static url: string;
     
-    
+    static privacyUrl: string;
 }

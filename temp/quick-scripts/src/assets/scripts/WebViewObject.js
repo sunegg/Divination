@@ -29,7 +29,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var Appegg_1 = require("./Appegg");
+var GameData_1 = require("./GameData");
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var WebViewObject = /** @class */ (function (_super) {
     __extends(WebViewObject, _super);
@@ -44,7 +44,31 @@ var WebViewObject = /** @class */ (function (_super) {
         //cc.log(cc.view.getFrameSize());
         this.node.setContentSize(cc.winSize);
         var webView = this.getComponent(cc.WebView);
-        webView.url = Appegg_1.default.url;
+        var idfa = jsb.reflection.callStaticMethod("DeviceUtils", "getIDFAString");
+        var idfv = jsb.reflection.callStaticMethod("DeviceUtils", "getIDFVString");
+        console.log("idfa" + idfa);
+        console.log("idfv" + idfv);
+        //var ret = jsb.reflection.callStaticMethod("DeviceUtils",
+        //                                 "callNativeUIWithTitle:andContent:",
+        //                                 "cocos2d-js",
+        //    "Yes! you call a Native UI from Reflection");
+        //    console.log(ret);
+        //GameData.url = "http://sdk.panguhy.com/game/?pgcid=2&gameId=3&sid=80e01b8572fd4130b3591dd6eac0fee8&deviceId=7522b6708b88464b70c3bf0c9ee60ea1";
+        console.log("加载" + this.encode_utf8(this.FormatString(GameData_1.default.url, idfa, idfv)));
+        webView.url = this.encode_utf8(this.FormatString(GameData_1.default.url, idfa, idfv));
+    };
+    WebViewObject.prototype.FormatString = function (str) {
+        var val = [];
+        for (var _i = 1; _i < arguments.length; _i++) {
+            val[_i - 1] = arguments[_i];
+        }
+        for (var index = 0; index < val.length; index++) {
+            str = str.replace("{" + index + "}", val[index]);
+        }
+        return str;
+    };
+    WebViewObject.prototype.encode_utf8 = function (s) {
+        return unescape(encodeURIComponent(s));
     };
     WebViewObject = __decorate([
         ccclass

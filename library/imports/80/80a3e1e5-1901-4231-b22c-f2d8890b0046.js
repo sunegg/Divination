@@ -29,7 +29,7 @@ var __decorate = (this && this.__decorate) || function (decorators, target, key,
     return c > 3 && r && Object.defineProperty(target, key, r), r;
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-var Appegg_1 = require("./Appegg");
+var GameData_1 = require("./GameData");
 var _a = cc._decorator, ccclass = _a.ccclass, property = _a.property;
 var PrivacySetup = /** @class */ (function (_super) {
     __extends(PrivacySetup, _super);
@@ -37,8 +37,11 @@ var PrivacySetup = /** @class */ (function (_super) {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     PrivacySetup.prototype.onLoad = function () {
-        cc.log("privacyUrl" + Appegg_1.default.privacyUrl);
-        this.webView.url = Appegg_1.default.privacyUrl;
+        cc.log("privacyUrl" + this.encode_utf8(GameData_1.default.privacyUrl));
+        this.webView.url = this.encode_utf8(GameData_1.default.privacyUrl);
+    };
+    PrivacySetup.prototype.encode_utf8 = function (s) {
+        return unescape(encodeURIComponent(s));
     };
     __decorate([
         property(cc.WebView)

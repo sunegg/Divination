@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>application-identifier</key>
-	<string>H5Z7W3595T.com.shaddock.test</string>
+	<string>H5Z7W3595T.org.cocos2d.demo</string>
 	<key>keychain-access-groups</key>
 	<array>
-		<string>H5Z7W3595T.com.shaddock.test</string>
+		<string>H5Z7W3595T.org.cocos2d.demo</string>
 	</array>
 </dict>
 </plist>
