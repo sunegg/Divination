@@ -1,79 +1,79 @@
-2020-07-02T19:03:52.680Z - normal: Load ~/.CocosCreator/settings.json
-2020-07-02T19:03:52.712Z - normal: Initializing Asset Database
-2020-07-02T19:03:52.715Z - normal: checking language setting...
-2020-07-02T19:03:52.716Z - normal: Language: zh
-2020-07-02T19:03:53.483Z - success: preview server running at http://localhost:7456
-2020-07-02T19:03:53.497Z - success: protocol editor-framework registered
-2020-07-02T19:03:53.497Z - success: protocol app registered
-2020-07-02T19:03:53.497Z - success: protocol theme registered
-2020-07-02T19:03:53.497Z - success: protocol packages registered
-2020-07-02T19:03:53.497Z - success: protocol uuid registerred
-2020-07-02T19:03:53.497Z - success: protocol db registerred
-2020-07-02T19:03:53.497Z - success: protocol thumbnail registerred
-2020-07-02T19:03:53.497Z - success: protocol unpack registerred
-2020-07-02T19:03:53.497Z - success: protocol disable-commonjs registerred
-2020-07-02T19:03:54.916Z - normal: connected!
-2020-07-02T19:03:54.917Z - normal: Check project /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
-2020-07-02T19:03:54.918Z - normal: Initializing project /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
-2020-07-02T19:03:54.930Z - success: adapters loaded
-2020-07-02T19:03:54.933Z - success: asset-db-debugger loaded
-2020-07-02T19:03:54.984Z - success: fb-audience-network loaded
-2020-07-02T19:03:55.011Z - success: fb-live-stream loaded
-2020-07-02T19:03:55.013Z - success: google-play-instant loaded
-2020-07-02T19:03:55.013Z - success: huawei-adapter loaded
-2020-07-02T19:03:55.014Z - success: jkw-adapter loaded
-2020-07-02T19:03:55.014Z - success: jsb-adapter loaded
-2020-07-02T19:03:55.015Z - success: oppo-adapter loaded
-2020-07-02T19:03:55.018Z - success: package-manager loaded
-2020-07-02T19:03:55.019Z - success: qtt-adapter loaded
-2020-07-02T19:03:55.021Z - success: runtime-dev-tools loaded
-2020-07-02T19:03:55.025Z - success: sdkbox loaded
-2020-07-02T19:03:55.027Z - success: ui-kit-preview-extra loaded
-2020-07-02T19:03:55.030Z - success: ui-kit-preview loaded
-2020-07-02T19:03:55.030Z - success: vivo-adapter loaded
-2020-07-02T19:03:55.061Z - success: alipay-minigame loaded
-2020-07-02T19:03:55.119Z - success: assets loaded
-2020-07-02T19:03:55.120Z - success: baidugame-opendata loaded
-2020-07-02T19:03:55.121Z - success: baidugame loaded
-2020-07-02T19:03:55.124Z - success: builder loaded
-2020-07-02T19:03:55.128Z - success: cloud-function loaded
-2020-07-02T19:03:55.251Z - success: cocos-services loaded
-2020-07-02T19:03:55.254Z - success: console loaded
-2020-07-02T19:03:55.255Z - success: curve-editor loaded
-2020-07-02T19:03:55.263Z - success: fb-instant-games loaded
-2020-07-02T19:03:55.266Z - success: game-window loaded
-2020-07-02T19:03:55.266Z - success: google-instant-games loaded
-2020-07-02T19:03:55.269Z - success: hierarchy loaded
-2020-07-02T19:03:55.272Z - success: huawei-runtime loaded
-2020-07-02T19:03:55.275Z - success: inspector loaded
-2020-07-02T19:03:55.335Z - success: cpk-publish loaded
-2020-07-02T19:03:55.335Z - success: keystore loaded
-2020-07-02T19:03:55.347Z - success: node-library loaded
-2020-07-02T19:03:55.347Z - success: open-recent-items loaded
-2020-07-02T19:03:55.350Z - success: oppo-runtime loaded
-2020-07-02T19:03:55.351Z - success: package-asset loaded
-2020-07-02T19:03:55.351Z - success: preferences loaded
-2020-07-02T19:03:55.354Z - success: project-importer loaded
-2020-07-02T19:03:55.357Z - success: project-settings loaded
-2020-07-02T19:03:55.367Z - success: qtt-runtime loaded
-2020-07-02T19:03:55.370Z - success: scene loaded
-2020-07-02T19:03:55.370Z - success: simulator-debugger loaded
-2020-07-02T19:03:55.371Z - success: sprite-editor loaded
-2020-07-02T19:03:55.397Z - success: store loaded
-2020-07-02T19:03:55.400Z - success: timeline loaded
-2020-07-02T19:03:55.403Z - success: vivo-runtime loaded
-2020-07-02T19:03:55.404Z - success: wechatgame-opendata loaded
-2020-07-02T19:03:55.406Z - success: wechatgame loaded
-2020-07-02T19:03:55.408Z - success: xiaomi-runtime loaded
-2020-07-02T19:03:55.517Z - success: im-plugin loaded
-2020-07-02T19:03:55.519Z - success: fix-script-err-bug loaded
-2020-07-02T19:03:56.573Z - normal: Initializing Cocos2d
-2020-07-02T19:03:56.764Z - normal: Initializing engine extends
-2020-07-02T19:03:57.617Z - normal: Loading packages
-2020-07-02T19:03:57.619Z - normal: Watching packages
-2020-07-02T19:03:57.699Z - normal: Run Application
-2020-07-02T19:03:58.352Z - info: Cocos Service load base data!
-2020-07-02T19:04:01.956Z - warn: Please specifiy a default value for "Appegg.changelogView" at its declaration:
+2020-07-03T04:08:26.358Z - normal: Load ~/.CocosCreator/settings.json
+2020-07-03T04:08:26.390Z - normal: Initializing Asset Database
+2020-07-03T04:08:26.403Z - normal: checking language setting...
+2020-07-03T04:08:26.403Z - normal: Language: zh
+2020-07-03T04:08:27.228Z - success: preview server running at http://localhost:7456
+2020-07-03T04:08:27.236Z - success: protocol editor-framework registered
+2020-07-03T04:08:27.236Z - success: protocol app registered
+2020-07-03T04:08:27.236Z - success: protocol theme registered
+2020-07-03T04:08:27.236Z - success: protocol packages registered
+2020-07-03T04:08:27.236Z - success: protocol uuid registerred
+2020-07-03T04:08:27.236Z - success: protocol db registerred
+2020-07-03T04:08:27.237Z - success: protocol thumbnail registerred
+2020-07-03T04:08:27.237Z - success: protocol unpack registerred
+2020-07-03T04:08:27.237Z - success: protocol disable-commonjs registerred
+2020-07-03T04:08:28.994Z - normal: connected!
+2020-07-03T04:08:28.995Z - normal: Check project /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
+2020-07-03T04:08:28.997Z - normal: Initializing project /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
+2020-07-03T04:08:29.042Z - success: adapters loaded
+2020-07-03T04:08:29.046Z - success: asset-db-debugger loaded
+2020-07-03T04:08:29.122Z - success: fb-audience-network loaded
+2020-07-03T04:08:29.159Z - success: fb-live-stream loaded
+2020-07-03T04:08:29.162Z - success: google-play-instant loaded
+2020-07-03T04:08:29.162Z - success: huawei-adapter loaded
+2020-07-03T04:08:29.163Z - success: jkw-adapter loaded
+2020-07-03T04:08:29.164Z - success: jsb-adapter loaded
+2020-07-03T04:08:29.165Z - success: oppo-adapter loaded
+2020-07-03T04:08:29.170Z - success: package-manager loaded
+2020-07-03T04:08:29.171Z - success: qtt-adapter loaded
+2020-07-03T04:08:29.173Z - success: runtime-dev-tools loaded
+2020-07-03T04:08:29.178Z - success: sdkbox loaded
+2020-07-03T04:08:29.180Z - success: ui-kit-preview-extra loaded
+2020-07-03T04:08:29.184Z - success: ui-kit-preview loaded
+2020-07-03T04:08:29.185Z - success: vivo-adapter loaded
+2020-07-03T04:08:29.223Z - success: alipay-minigame loaded
+2020-07-03T04:08:29.269Z - success: assets loaded
+2020-07-03T04:08:29.271Z - success: baidugame-opendata loaded
+2020-07-03T04:08:29.272Z - success: baidugame loaded
+2020-07-03T04:08:29.276Z - success: builder loaded
+2020-07-03T04:08:29.279Z - success: cloud-function loaded
+2020-07-03T04:08:29.421Z - success: cocos-services loaded
+2020-07-03T04:08:29.425Z - success: console loaded
+2020-07-03T04:08:29.426Z - success: curve-editor loaded
+2020-07-03T04:08:29.433Z - success: fb-instant-games loaded
+2020-07-03T04:08:29.436Z - success: game-window loaded
+2020-07-03T04:08:29.436Z - success: google-instant-games loaded
+2020-07-03T04:08:29.439Z - success: hierarchy loaded
+2020-07-03T04:08:29.441Z - success: huawei-runtime loaded
+2020-07-03T04:08:29.443Z - success: inspector loaded
+2020-07-03T04:08:29.504Z - success: cpk-publish loaded
+2020-07-03T04:08:29.505Z - success: keystore loaded
+2020-07-03T04:08:29.517Z - success: node-library loaded
+2020-07-03T04:08:29.518Z - success: open-recent-items loaded
+2020-07-03T04:08:29.520Z - success: oppo-runtime loaded
+2020-07-03T04:08:29.521Z - success: package-asset loaded
+2020-07-03T04:08:29.522Z - success: preferences loaded
+2020-07-03T04:08:29.525Z - success: project-importer loaded
+2020-07-03T04:08:29.527Z - success: project-settings loaded
+2020-07-03T04:08:29.538Z - success: qtt-runtime loaded
+2020-07-03T04:08:29.541Z - success: scene loaded
+2020-07-03T04:08:29.542Z - success: simulator-debugger loaded
+2020-07-03T04:08:29.543Z - success: sprite-editor loaded
+2020-07-03T04:08:29.577Z - success: store loaded
+2020-07-03T04:08:29.580Z - success: timeline loaded
+2020-07-03T04:08:29.583Z - success: vivo-runtime loaded
+2020-07-03T04:08:29.584Z - success: wechatgame-opendata loaded
+2020-07-03T04:08:29.587Z - success: wechatgame loaded
+2020-07-03T04:08:29.590Z - success: xiaomi-runtime loaded
+2020-07-03T04:08:29.722Z - success: im-plugin loaded
+2020-07-03T04:08:29.725Z - success: fix-script-err-bug loaded
+2020-07-03T04:08:30.673Z - normal: Initializing Cocos2d
+2020-07-03T04:08:30.915Z - normal: Initializing engine extends
+2020-07-03T04:08:32.595Z - info: Cocos Service load base data!
+2020-07-03T04:08:35.497Z - normal: Loading packages
+2020-07-03T04:08:35.502Z - normal: Watching packages
+2020-07-03T04:08:35.570Z - normal: Run Application
+2020-07-03T04:08:38.521Z - warn: Please specifiy a default value for "Appegg.changelogView" at its declaration:
  
 // Before:
 @property(...)
@@ -81,7 +81,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.changelogTitleLabel" at its declaration:
+2020-07-03T04:08:38.521Z - warn: Please specifiy a default value for "Appegg.changelogTitleLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -89,7 +89,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.changelogContentLabel" at its declaration:
+2020-07-03T04:08:38.521Z - warn: Please specifiy a default value for "Appegg.changelogContentLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -97,7 +97,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.privacyButton" at its declaration:
+2020-07-03T04:08:38.521Z - warn: Please specifiy a default value for "Appegg.privacyButton" at its declaration:
  
 // Before:
 @property(...)
@@ -105,7 +105,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.startButton" at its declaration:
+2020-07-03T04:08:38.522Z - warn: Please specifiy a default value for "Appegg.startButton" at its declaration:
  
 // Before:
 @property(...)
@@ -113,7 +113,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.retryButton" at its declaration:
+2020-07-03T04:08:38.522Z - warn: Please specifiy a default value for "Appegg.retryButton" at its declaration:
  
 // Before:
 @property(...)
@@ -121,7 +121,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.957Z - warn: Please specifiy a default value for "Appegg.errorView" at its declaration:
+2020-07-03T04:08:38.522Z - warn: Please specifiy a default value for "Appegg.errorView" at its declaration:
  
 // Before:
 @property(...)
@@ -129,7 +129,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.958Z - warn: Please specifiy a default value for "Appegg.webView" at its declaration:
+2020-07-03T04:08:38.522Z - warn: Please specifiy a default value for "Appegg.webView" at its declaration:
  
 // Before:
 @property(...)
@@ -137,7 +137,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.959Z - warn: Please specifiy a default value for "GameManager.raceLabel" at its declaration:
+2020-07-03T04:08:38.523Z - warn: Please specifiy a default value for "GameManager.raceLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -145,7 +145,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.959Z - warn: Please specifiy a default value for "GameManager.jobLabel" at its declaration:
+2020-07-03T04:08:38.524Z - warn: Please specifiy a default value for "GameManager.jobLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -153,7 +153,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.960Z - warn: Please specifiy a default value for "PrivacySetup.webView" at its declaration:
+2020-07-03T04:08:38.524Z - warn: Please specifiy a default value for "PrivacySetup.webView" at its declaration:
  
 // Before:
 @property(...)
@@ -161,7 +161,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.960Z - warn: Please specifiy a default value for "UICheckBtn.hideScene" at its declaration:
+2020-07-03T04:08:38.525Z - warn: Please specifiy a default value for "UICheckBtn.hideScene" at its declaration:
  
 // Before:
 @property(...)
@@ -169,7 +169,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.961Z - warn: Please specifiy a default value for "UICheckBtn.showScene" at its declaration:
+2020-07-03T04:08:38.525Z - warn: Please specifiy a default value for "UICheckBtn.showScene" at its declaration:
  
 // Before:
 @property(...)
@@ -177,7 +177,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.961Z - warn: Please specifiy a default value for "UICheckBtn.GameManager" at its declaration:
+2020-07-03T04:08:38.526Z - warn: Please specifiy a default value for "UICheckBtn.GameManager" at its declaration:
  
 // Before:
 @property(...)
@@ -185,7 +185,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.nameBox" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.nameBox" at its declaration:
  
 // Before:
 @property(...)
@@ -193,7 +193,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearBox" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearBox" at its declaration:
  
 // Before:
 @property(...)
@@ -201,7 +201,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthBox" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthBox" at its declaration:
  
 // Before:
 @property(...)
@@ -209,7 +209,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.dateBox" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.dateBox" at its declaration:
  
 // Before:
 @property(...)
@@ -217,7 +217,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearLabel" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -225,7 +225,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.962Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthLabel" at its declaration:
+2020-07-03T04:08:38.527Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -233,7 +233,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.963Z - warn: Please specifiy a default value for "UIEditBoxGroup.dayLabel" at its declaration:
+2020-07-03T04:08:38.528Z - warn: Please specifiy a default value for "UIEditBoxGroup.dayLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -241,7 +241,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.963Z - warn: Please specifiy a default value for "UIEditBoxGroup.errorLabel" at its declaration:
+2020-07-03T04:08:38.528Z - warn: Please specifiy a default value for "UIEditBoxGroup.errorLabel" at its declaration:
  
 // Before:
 @property(...)
@@ -249,7 +249,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.963Z - warn: Please specifiy a default value for "UIGenderBtn.hideView" at its declaration:
+2020-07-03T04:08:38.528Z - warn: Please specifiy a default value for "UIGenderBtn.hideView" at its declaration:
  
 // Before:
 @property(...)
@@ -257,7 +257,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.963Z - warn: Please specifiy a default value for "UIGenderBtn.view" at its declaration:
+2020-07-03T04:08:38.528Z - warn: Please specifiy a default value for "UIGenderBtn.view" at its declaration:
  
 // Before:
 @property(...)
@@ -265,7 +265,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.964Z - warn: Please specifiy a default value for "UIShowNode.hideScene" at its declaration:
+2020-07-03T04:08:38.529Z - warn: Please specifiy a default value for "UIShowNode.hideScene" at its declaration:
  
 // Before:
 @property(...)
@@ -273,7 +273,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:01.965Z - warn: Please specifiy a default value for "UIShowNode.showScene" at its declaration:
+2020-07-03T04:08:38.530Z - warn: Please specifiy a default value for "UIShowNode.showScene" at its declaration:
  
 // Before:
 @property(...)
@@ -281,7 +281,7 @@ myProp;
 // After:
 @property(...)
 myProp = 0;
-2020-07-02T19:04:05.666Z - normal: Start building with options : {
+2020-07-03T04:09:10.505Z - normal: Start building with options : {
   "actualPlatform": "ios",
   "android": {
     "packageName": "org.cocos2d.demo"
@@ -301,7 +301,7 @@ myProp = 0;
   "buildPath": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build",
   "buildScriptsOnly": false,
   "debug": false,
-  "dest": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link",
+  "dest": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default",
   "embedWebDebugger": false,
   "encryptJs": true,
   "excludeScenes": [],
@@ -373,7 +373,7 @@ myProp = 0;
   ],
   "sourceMaps": false,
   "startScene": "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
-  "template": "link",
+  "template": "default",
   "title": "PastLife",
   "useDebugKeystore": true,
   "vsVersion": "auto",
@@ -385,25 +385,485 @@ myProp = 0;
   "projectName": "PastLife",
   "debugBuildWorker": false
 }
-2020-07-02T19:04:05.667Z - normal: Building /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
-2020-07-02T19:04:05.667Z - normal: Destination /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link
-2020-07-02T19:04:05.735Z - normal: Delete /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link/subpackages/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link/res/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link/src/**/*
-2020-07-02T19:04:05.752Z - normal: Checked Python Version [2.7.16]
-2020-07-02T19:04:06.906Z - normal: Creating native cocos project to  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link
-2020-07-02T19:04:09.539Z - normal: Start building assets
-2020-07-02T19:04:09.539Z - normal: Start spawn build-worker
-2020-07-02T19:04:09.962Z - normal: Finish spawn build-worker
-2020-07-02T19:04:09.963Z - normal: Start init build-worker
-2020-07-02T19:04:11.240Z - normal: Finish init build-worker
-2020-07-02T19:04:11.241Z - normal: Start build-assets in worker
-2020-07-02T19:04:11.855Z - normal: Finish build-assets in worker
-2020-07-02T19:04:11.858Z - normal: Finish building assets
-2020-07-02T19:04:11.858Z - normal: Start building plugin scripts
-2020-07-02T19:04:11.938Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.3.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
-2020-07-02T19:04:12.187Z - normal: Checked Python Version [2.7.16]
-2020-07-02T19:04:13.372Z - normal: Built to "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-link" successfully
-2020-07-02T19:04:14.163Z - normal: Checked Python Version [2.7.16]
-2020-07-02T19:04:15.278Z - normal: Start to compile native project. Please wait...
-2020-07-02T19:04:15.278Z - normal: The log file path [ /Users/sunegg/.CocosCreator/logs/native.log ]
-2020-07-02T19:05:19.147Z - normal: Compile native project successfully.
-2020-07-02T19:07:23.249Z - info: shutdown preview server
+2020-07-03T04:09:10.506Z - normal: Building /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
+2020-07-03T04:09:10.506Z - normal: Destination /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default
+2020-07-03T04:09:10.590Z - normal: Delete /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/subpackages/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/res/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/src/**/*
+2020-07-03T04:09:10.611Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:09:11.859Z - normal: Creating native cocos project to  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default
+2020-07-03T04:09:18.138Z - normal: Start building assets
+2020-07-03T04:09:18.139Z - normal: Start spawn build-worker
+2020-07-03T04:09:18.528Z - normal: Finish spawn build-worker
+2020-07-03T04:09:18.529Z - normal: Start init build-worker
+2020-07-03T04:09:19.758Z - normal: Finish init build-worker
+2020-07-03T04:09:19.758Z - normal: Start build-assets in worker
+2020-07-03T04:09:20.462Z - normal: Finish build-assets in worker
+2020-07-03T04:09:20.464Z - normal: Finish building assets
+2020-07-03T04:09:20.465Z - normal: Start building plugin scripts
+2020-07-03T04:09:20.536Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.3.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-07-03T04:09:20.819Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:09:22.020Z - normal: Built to "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default" successfully
+2020-07-03T04:11:10.561Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:11:11.674Z - normal: Start to compile native project. Please wait...
+2020-07-03T04:11:11.674Z - normal: The log file path [ /Users/sunegg/.CocosCreator/logs/native.log ]
+2020-07-03T04:11:46.399Z - normal: Compile native project successfully.
+2020-07-03T04:16:43.110Z - warn: Please specifiy a default value for "Appegg.changelogView" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.110Z - warn: Please specifiy a default value for "Appegg.changelogTitleLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.111Z - warn: Please specifiy a default value for "Appegg.changelogContentLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.111Z - warn: Please specifiy a default value for "Appegg.privacyButton" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.111Z - warn: Please specifiy a default value for "Appegg.startButton" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.111Z - warn: Please specifiy a default value for "Appegg.retryButton" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.111Z - warn: Please specifiy a default value for "Appegg.errorView" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.112Z - warn: Please specifiy a default value for "Appegg.webView" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.113Z - warn: Please specifiy a default value for "GameManager.raceLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.115Z - warn: Please specifiy a default value for "GameManager.jobLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.115Z - warn: Please specifiy a default value for "PrivacySetup.webView" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.116Z - warn: Please specifiy a default value for "UICheckBtn.hideScene" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.116Z - warn: Please specifiy a default value for "UICheckBtn.showScene" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.117Z - warn: Please specifiy a default value for "UICheckBtn.GameManager" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.118Z - warn: Please specifiy a default value for "UIEditBoxGroup.nameBox" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.119Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearBox" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.119Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthBox" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.120Z - warn: Please specifiy a default value for "UIEditBoxGroup.dateBox" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.120Z - warn: Please specifiy a default value for "UIEditBoxGroup.yearLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.120Z - warn: Please specifiy a default value for "UIEditBoxGroup.monthLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.120Z - warn: Please specifiy a default value for "UIEditBoxGroup.dayLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.121Z - warn: Please specifiy a default value for "UIEditBoxGroup.errorLabel" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.123Z - warn: Please specifiy a default value for "UIGenderBtn.hideView" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.124Z - warn: Please specifiy a default value for "UIGenderBtn.view" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.126Z - warn: Please specifiy a default value for "UIShowNode.hideScene" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:43.126Z - warn: Please specifiy a default value for "UIShowNode.showScene" at its declaration:
+ 
+// Before:
+@property(...)
+myProp;
+// After:
+@property(...)
+myProp = 0;
+2020-07-03T04:16:48.150Z - normal: Start building with options : {
+  "actualPlatform": "ios",
+  "android": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Action",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "DragonBones",
+    "Graphics",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mask",
+    "Mesh",
+    "MotionStreak",
+    "NodePool",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ProgressBar",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": false,
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "6ff40d77-d2e3-44de-baa8-82b2433a36f2",
+    "12317f10-bcc6-40cf-a05d-853f649e69ea",
+    "68ef788a-6cef-46d3-905f-9784ef87ad42"
+  ],
+  "sourceMaps": false,
+  "startScene": "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
+  "template": "default",
+  "title": "PastLife",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f2eaa031-c224-4b",
+  "zipCompressJs": true,
+  "project": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife",
+  "projectName": "PastLife",
+  "debugBuildWorker": false
+}
+2020-07-03T04:16:48.151Z - normal: Building /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
+2020-07-03T04:16:48.151Z - normal: Destination /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default
+2020-07-03T04:16:48.151Z - normal: Delete /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/subpackages/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/res/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/src/**/*
+2020-07-03T04:16:48.321Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:16:51.445Z - normal: Start building assets
+2020-07-03T04:16:51.445Z - normal: Start spawn build-worker
+2020-07-03T04:16:51.864Z - normal: Finish spawn build-worker
+2020-07-03T04:16:51.865Z - normal: Start init build-worker
+2020-07-03T04:16:53.333Z - normal: Finish init build-worker
+2020-07-03T04:16:53.333Z - normal: Start build-assets in worker
+2020-07-03T04:16:54.047Z - normal: Finish build-assets in worker
+2020-07-03T04:16:54.049Z - normal: Finish building assets
+2020-07-03T04:16:54.049Z - normal: Start building plugin scripts
+2020-07-03T04:16:54.120Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.3.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-07-03T04:16:54.430Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:16:55.597Z - normal: Built to "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default" successfully
+2020-07-03T04:16:56.733Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:16:57.845Z - normal: Start to compile native project. Please wait...
+2020-07-03T04:16:57.845Z - normal: The log file path [ /Users/sunegg/.CocosCreator/logs/native.log ]
+2020-07-03T04:17:05.557Z - normal: Compile native project successfully.
+2020-07-03T04:24:31.722Z - normal: Start building with options : {
+  "actualPlatform": "ios",
+  "android": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "",
+    "host": "",
+    "packageName": "org.cocos2d.demo",
+    "pathPattern": "",
+    "recordPath": "",
+    "scheme": "https",
+    "skipRecord": false
+  },
+  "apiLevel": "",
+  "appABIs": [],
+  "appBundle": false,
+  "buildPath": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build",
+  "buildScriptsOnly": false,
+  "debug": false,
+  "dest": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "Action",
+    "Animation",
+    "Collider",
+    "Dynamic Atlas",
+    "DragonBones",
+    "Graphics",
+    "Geom Utils",
+    "Intersection",
+    "Label Effect",
+    "Mask",
+    "Mesh",
+    "MotionStreak",
+    "NodePool",
+    "Native Socket",
+    "Physics",
+    "PageView",
+    "PageViewIndicator",
+    "ProgressBar",
+    "ParticleSystem",
+    "RichText",
+    "Renderer Texture",
+    "Slider",
+    "ScrollBar",
+    "ScrollView",
+    "Spine Skeleton",
+    "StudioComponent",
+    "Toggle",
+    "TiledMap",
+    "VideoPlayer",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
+  ],
+  "fb-instant-games": {},
+  "includeSDKBox": false,
+  "inlineSpriteFrames": false,
+  "inlineSpriteFrames_native": false,
+  "ios": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "mac": {
+    "packageName": "org.cocos2d.demo"
+  },
+  "md5Cache": true,
+  "mergeStartScene": false,
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": false,
+    "landscapeRight": false,
+    "portrait": true,
+    "upsideDown": true
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "scenes": [
+    "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
+    "2d2f792f-a40c-49bb-a189-ed176a246e49",
+    "6ff40d77-d2e3-44de-baa8-82b2433a36f2",
+    "12317f10-bcc6-40cf-a05d-853f649e69ea",
+    "68ef788a-6cef-46d3-905f-9784ef87ad42"
+  ],
+  "sourceMaps": false,
+  "startScene": "0f2739d6-b88c-45ae-ab60-de64b51a3a40",
+  "template": "default",
+  "title": "PastLife",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "win32": {},
+  "xxteaKey": "f2eaa031-c224-4b",
+  "zipCompressJs": true,
+  "project": "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife",
+  "projectName": "PastLife",
+  "debugBuildWorker": false
+}
+2020-07-03T04:24:31.723Z - normal: Building /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife
+2020-07-03T04:24:31.723Z - normal: Destination /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default
+2020-07-03T04:24:31.724Z - normal: Delete /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/subpackages/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/res/**/*,/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/src/**/*
+2020-07-03T04:24:31.739Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:24:32.906Z - normal: Creating native cocos project to  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default
+2020-07-03T04:24:39.015Z - normal: Start building assets
+2020-07-03T04:24:39.015Z - normal: Start spawn build-worker
+2020-07-03T04:24:39.410Z - normal: Finish spawn build-worker
+2020-07-03T04:24:39.410Z - normal: Start init build-worker
+2020-07-03T04:24:40.874Z - normal: Finish init build-worker
+2020-07-03T04:24:40.874Z - normal: Start build-assets in worker
+2020-07-03T04:24:41.509Z - normal: Finish build-assets in worker
+2020-07-03T04:24:41.511Z - normal: Finish building assets
+2020-07-03T04:24:41.511Z - normal: Start building plugin scripts
+2020-07-03T04:24:41.581Z - normal: Generating main.js from /Applications/CocosCreator/Creator/2.3.4/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2020-07-03T04:24:41.866Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:24:43.010Z - normal: Built to "/Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default" successfully
+2020-07-03T04:24:44.652Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:24:45.761Z - normal: Start to compile native project. Please wait...
+2020-07-03T04:24:45.761Z - normal: The log file path [ /Users/sunegg/.CocosCreator/logs/native.log ]
+2020-07-03T04:25:16.912Z - normal: Compile native project successfully.
+2020-07-03T04:26:07.767Z - normal: Checked Python Version [2.7.16]
+2020-07-03T04:26:08.910Z - normal: Start to compile native project. Please wait...
+2020-07-03T04:26:08.911Z - normal: The log file path [ /Users/sunegg/.CocosCreator/logs/native.log ]
+2020-07-03T04:26:13.674Z - normal: Compile native project successfully.

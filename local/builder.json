@@ -1,7 +1,7 @@
 {
   "platform": "ios",
   "actualPlatform": "ios",
-  "template": "link",
+  "template": "default",
   "buildPath": "./build",
   "debug": false,
   "sourceMaps": false,

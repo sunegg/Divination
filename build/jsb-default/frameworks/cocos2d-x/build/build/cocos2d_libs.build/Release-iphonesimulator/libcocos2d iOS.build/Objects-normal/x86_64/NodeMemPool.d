@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/NodeMemPool.cpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/NodeMemPool.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/MemPool.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/scene/../Macro.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformConfig.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/Object.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/config.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/Object.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../config.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/Base.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/HelperMacros.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../Value.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/HandleObject.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/scripting/js-bindings/jswrapper/jsc/../RefCounter.hpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Mat4.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccMacros.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/base/CCLog.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/platform/CCPlatformDefine.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/base/ccConfig.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec3.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/CCMathBase.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec3.inl \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec4.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Vec4.inl \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/math/Mat4.inl

@@ -54,7 +54,7 @@ var WebViewObject = /** @class */ (function (_super) {
         //    "Yes! you call a Native UI from Reflection");
         //    console.log(ret);
         //GameData.url = "http://sdk.panguhy.com/game/?pgcid=2&gameId=3&sid=80e01b8572fd4130b3591dd6eac0fee8&deviceId=7522b6708b88464b70c3bf0c9ee60ea1";
-        console.log("加载" + this.encode_utf8(this.FormatString(GameData_1.default.url, idfa, idfv)));
+        console.log(this.encode_utf8(this.FormatString(GameData_1.default.url, idfa, idfv)));
         webView.url = this.encode_utf8(this.FormatString(GameData_1.default.url, idfa, idfv));
     };
     WebViewObject.prototype.FormatString = function (str) {

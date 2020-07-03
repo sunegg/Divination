@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraint.cpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraint.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/ConstraintData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Updatable.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RTTI.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineObject.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/dll.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpineString.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Extension.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Vector.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathConstraintData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PositionMode.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SpacingMode.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/RotateMode.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Skeleton.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/MathUtil.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Color.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/PathAttachment.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/VertexAttachment.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Attachment.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Bone.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/Slot.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/SlotData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/BlendMode.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/BoneData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/spine/TransformMode.h

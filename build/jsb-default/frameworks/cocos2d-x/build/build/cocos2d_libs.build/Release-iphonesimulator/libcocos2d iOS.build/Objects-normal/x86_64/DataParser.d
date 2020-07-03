@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/cocos2d-prefix.pch \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.cpp \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/DataParser.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../core/DragonBones.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/UserData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../core/BaseObject.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DragonBonesData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ArmatureData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Matrix.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/../core/DragonBones.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Point.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Rectangle.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/Transform.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/../geom/ColorTransform.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/CanvasData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/ConstraintData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/SkinData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/DisplayData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/BoundingBoxData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/AnimationData.h \
+  /Users/sunegg/Desktop/Sunegg/Projects/PastLife/PastLife/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parser/../model/TextureAtlasData.h
